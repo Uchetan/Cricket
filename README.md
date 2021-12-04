@@ -1,6 +1,9 @@
 THIS IS A FANTASY CRICKET GAME BUILD BY USE OF PYTHON 
 
-              RUN INDEX.PY FILE DIRECTLY WITH AL OTHER FILE PRESENT TOGETHER                       
+              RUN INDEX.PY FILE DIRECTLY WITH AL OTHER FILE PRESENT TOGETHER
+              REQUIRMENT :- mysql-conector-python package required
+                          IF ERROR IN INSTALLING PACKAGE VISIT :-https://pypi.org/project/mysql-connector-python/#files
+                          AND INSTALL PACKAGE AS PER THE PYTHON VERSION IN ANACONDA ENVS
               
 USE OF OOP's CONCEPT IS MADE IN THE PROJECT                        
 
