@@ -6,7 +6,7 @@ from database import database
 '''' IF YOU ARE USING FOR THE FIRST TIME PLZ PROVIDE YOUR MYSQL PASSWORD AND ANY DATABASE NAME AS PER YOURCHOICE
 FOR ANY TYPE OF ERROR YOU CAN SEE THE LOG FILE named LOGS.DATA PRESENT AT THE LOGGER FOLDER'''
 try:
-    choice_1 = input('Enter your team name :- ' )
+    choice_1 = input('Enter your team name :- ')
     choice_2 = input('Enter your team name :- ')
     logs.lg.info('data entered sucessfuly :-  ' + 'team1 : ' + choice_1 + ': team2 :' + choice_2)
 
