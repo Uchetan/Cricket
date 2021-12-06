@@ -10,7 +10,7 @@ try:
     choice_2 = input('Enter your team name :- ')
     logs.lg.info('data entered sucessfuly :-  ' + 'team1 : ' + choice_1 + ': team2 :' + choice_2)
 
-    print('====================================== Toss ===========================================')
+    print('====================================== Toss =======================================')
     tos_win, tos_los, act = toss.toss_ch(choice_1, choice_2)
     print('======================================***=========================================')
     ch = input(str(tos_win) + ' choice bat or ball :-')
