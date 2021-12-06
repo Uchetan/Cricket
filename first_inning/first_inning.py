@@ -20,6 +20,7 @@ def first_in(ch):
     while True:
         for i in range(1,7):
             f22=False
+            input("\t\tPress enter to play the next ball : ")
             b=rd.choice(runs)
             if b!=8:
                 if b==6 or b==4:

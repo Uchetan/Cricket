@@ -19,6 +19,7 @@ def sec_ing(ch1,total1,ch):
     fl=False
     while True:
         for i in range(1,7):
+            input("\t\tPress enter to play the next ball : ")
             b=rd.choice(runs)
             if b!=8:
                 if b==6 or b==4:
