@@ -1,8 +1,10 @@
 import random as rd
 import mysql.connector as con
 from logger import logs
+import datetime
 '''used database is mysql '''
-def first (pas='password',data_name='circket'):
+obj=[]
+def first (pas='password',data_name='cricket'):
     try:
         mydb = con.connect(host='localhost', user='root', passwd=f'{pas}', use_pure=True)
         query=f'create database {data_name}'
@@ -11,13 +13,11 @@ def first (pas='password',data_name='circket'):
         mydb.commit()
 
         mydb = con.connect(host='localhost', database= f'{data_name}',user='root', passwd=f'{pas}', use_pure=True)
-        query = "create table matchistory(id int(6),team1 varchar(10),team2 varchar(10),team1_score varchar(15),team2_score varchar(15),winner varchar(10));"
+        query = "create table matchistory(id int(6),team1 varchar(10),team2 varchar(10),team1_score varchar(15),team2_score varchar(15),winner varchar(10),date varchar(25));"
         cur = mydb.cursor()
         cur.execute(query)
         mydb.commit()
-        f=open("database\\object.txt","w")
-        f.write(data_name+","+pas)
-        f.close()
+        obj.append(mydb)
         logs.lg.info('first time database stored sucessfully')
     except Exception as e:
         logs.lg.error('error occured at database : '+str(e))
@@ -39,17 +39,16 @@ def prep(mydb):
             break
     return b
 
-def store(fir_bat,sec_bat,a1,b1,winner,):
+def store(fir_bat,sec_bat,a1,b1,winner,pas):
     try:
-        f=open('database\\object.txt','r')
-        a = f.read()
-        a = a.split(',')
-        mydb = con.connect(host='localhost', database=f'{a[0]}', user='root', passwd=f'{a[1]}', use_pure=True)
+        dd=str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+        mydb = con.connect(host='localhost', database='cricket', user='root', passwd=f'{pas}', use_pure=True)
+        data='cricket'
         b=prep(mydb)
-        query=f" insert into matchistory values({b},'{fir_bat}','{sec_bat}','{a1}','{b1}','{winner}')"
+        query=f" insert into matchistory values({b},'{fir_bat}','{sec_bat}','{a1}','{b1}','{winner}','{dd}')"
         cur = mydb.cursor()
         a = cur.execute(query)
         mydb.commit()
-        logs.lg.info('data stored in database sucessfully')
+        logs.lg.info('data stored in database sucessfully in database : '+data)
     except Exception as e:
         logs.lg.error('error occured at database : '+str(e))

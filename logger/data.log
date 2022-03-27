@@ -3471,3 +3471,1400 @@
 2021-12-04 21:01:53,975 root INFO the id for the match was : 18048
 2021-12-04 21:01:53,979 root INFO data stored in database sucessfully
 2021-12-04 21:01:53,980 root INFO module runned sucessfully
+2022-03-27 10:51:19,265 root INFO data entered sucessfully :-  team1 : india: team2 :aus
+2022-03-27 10:51:21,951 root INFO coin rolled was : tail
+2022-03-27 10:51:21,951 root INFO toss was winned by : aus
+2022-03-27 10:51:24,535 root INFO aus choses to  : bat
+2022-03-27 10:51:24,536 root INFO first ining
+2022-03-27 10:51:35,604 root INFO i scored : 0
+2022-03-27 10:51:36,692 root INFO i scored : 1
+2022-03-27 10:51:36,983 root INFO a scored : 2
+2022-03-27 10:51:37,346 root INFO a scored : 4
+2022-03-27 10:51:37,898 root INFO 7 / 1
+2022-03-27 10:51:37,898 root INFO  overs  :0.5
+2022-03-27 10:51:38,285 root INFO i scored : 3
+2022-03-27 10:51:38,285 root INFO 10 / 1
+2022-03-27 10:51:38,285 root INFO  overs  :1
+2022-03-27 10:51:39,303 root INFO  scored : 0
+2022-03-27 10:51:39,652 root INFO  scored : 0
+2022-03-27 10:51:39,953 root INFO  scored : 6
+2022-03-27 10:51:42,514 root INFO  scored : 2
+2022-03-27 10:51:43,272 root INFO  scored : 2
+2022-03-27 10:51:43,929 root INFO 20 / 2
+2022-03-27 10:51:43,930 root INFO 20 / 2
+2022-03-27 10:51:43,930 root INFO  overs  :2
+2022-03-27 10:51:44,508 root INFO 20 / 3
+2022-03-27 10:51:44,509 root INFO  overs  :2.1
+2022-03-27 10:51:44,874 root INFO  scored : 4
+2022-03-27 10:51:45,167 root INFO  scored : 1
+2022-03-27 10:51:45,453 root INFO  scored : 6
+2022-03-27 10:51:45,776 root INFO  scored : 2
+2022-03-27 10:51:46,050 root INFO  scored : 2
+2022-03-27 10:51:46,050 root INFO 35 / 3
+2022-03-27 10:51:46,050 root INFO  overs  :3
+2022-03-27 10:51:46,309 root INFO  scored : 0
+2022-03-27 10:51:46,898 root INFO 35 / 4
+2022-03-27 10:51:46,898 root INFO  overs  :3.2
+2022-03-27 10:51:47,155 root INFO  scored : 6
+2022-03-27 10:51:47,422 root INFO  scored : 6
+2022-03-27 10:51:47,668 root INFO  scored : 1
+2022-03-27 10:51:47,914 root INFO  scored : 0
+2022-03-27 10:51:47,915 root INFO 48 / 4
+2022-03-27 10:51:47,915 root INFO  overs  :4
+2022-03-27 10:51:48,159 root INFO  scored : 4
+2022-03-27 10:51:48,354 root INFO  scored : 0
+2022-03-27 10:51:48,765 root INFO 52 / 5
+2022-03-27 10:51:48,765 root INFO  overs  :4.3
+2022-03-27 10:51:49,157 root INFO  scored : 0
+2022-03-27 10:51:49,373 root INFO  scored : 1
+2022-03-27 10:51:49,578 root INFO  scored : 2
+2022-03-27 10:51:49,578 root INFO first inning ends sucessfully
+2022-03-27 10:51:49,578 root INFO second innings
+2022-03-27 10:51:50,204 root INFO  scored : 1
+2022-03-27 10:51:50,419 root INFO  scored : 4
+2022-03-27 10:51:50,620 root INFO  scored : 6
+2022-03-27 10:51:50,823 root INFO  scored : 0
+2022-03-27 10:51:51,026 root INFO 11 / 1
+2022-03-27 10:51:51,225 root INFO  overs  :0.5
+2022-03-27 10:51:51,423 root INFO  scored : 0
+2022-03-27 10:51:51,423 root INFO 11 / 1
+2022-03-27 10:51:51,423 root INFO  overs  :1
+2022-03-27 10:51:52,293 root INFO  scored : 0
+2022-03-27 10:51:52,707 root INFO 11 / 2
+2022-03-27 10:51:53,125 root INFO  overs  :1.2
+2022-03-27 10:51:53,755 root INFO  scored : 2
+2022-03-27 10:51:54,176 root INFO  scored : 4
+2022-03-27 10:51:54,595 root INFO  scored : 4
+2022-03-27 10:51:55,026 root INFO  scored : 0
+2022-03-27 10:51:55,026 root INFO 21 / 2
+2022-03-27 10:51:55,026 root INFO  overs  :2
+2022-03-27 10:51:55,419 root INFO  scored : 2
+2022-03-27 10:51:56,977 root INFO 23 / 3
+2022-03-27 10:51:57,529 root INFO  overs  :2.2
+2022-03-27 10:51:57,906 root INFO  scored : 0
+2022-03-27 10:51:58,639 root INFO  scored : 4
+2022-03-27 10:51:59,818 root INFO  scored : 6
+2022-03-27 10:52:00,471 root INFO  scored : 4
+2022-03-27 10:52:00,471 root INFO 37 / 3
+2022-03-27 10:52:00,472 root INFO  overs  :3
+2022-03-27 10:52:01,109 root INFO  scored : 6
+2022-03-27 10:52:07,812 root INFO  scored : 6
+2022-03-27 10:52:08,474 root INFO 49 / 4
+2022-03-27 10:52:08,760 root INFO  overs  :3.3
+2022-03-27 10:52:09,139 root INFO  scored : 1
+2022-03-27 10:52:09,821 root INFO  scored : 2
+2022-03-27 10:52:10,516 root INFO 52 / 5
+2022-03-27 10:52:10,907 root INFO 52 / 5
+2022-03-27 10:52:10,908 root INFO  overs  :4
+2022-03-27 10:52:11,328 root INFO  scored : 1
+2022-03-27 10:52:11,928 root INFO 53 / 6
+2022-03-27 10:52:12,667 root INFO  overs  :4.2
+2022-03-27 10:52:13,407 root INFO  scored : 2
+2022-03-27 10:52:14,153 root INFO  scored : 0
+2022-03-27 10:52:17,774 root INFO  scored : 0
+2022-03-27 10:52:18,749 root INFO  scored : 2
+2022-03-27 10:52:18,749 root INFO second inning ends sucessfully
+2022-03-27 10:52:18,750 root INFO aus score : 55
+2022-03-27 10:52:18,750 root INFO india score : 57
+2022-03-27 10:52:18,750 root INFO winner is : india
+2022-03-27 10:53:26,947 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 10:53:26,948 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 10:53:26,948 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 10:53:27,188 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 10:53:27,188 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 10:53:27,189 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 10:53:27,334 root INFO first time database stored sucessfully
+2022-03-27 10:53:27,407 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 10:53:27,407 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 10:53:27,407 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 10:53:27,434 root INFO the id for the match was : 72283
+2022-03-27 10:53:27,440 root INFO data stored in database sucessfully
+2022-03-27 10:53:27,445 root INFO module runned sucessfully
+2022-03-27 11:06:18,920 root INFO data entered sucessfully :-  team1 : aaaa: team2 :ddddd
+2022-03-27 11:06:22,452 root INFO coin rolled was : tail
+2022-03-27 11:06:22,452 root INFO toss was winned by : ddddd
+2022-03-27 11:06:26,000 root INFO ddddd choses to  : ball
+2022-03-27 11:06:26,000 root INFO first ining
+2022-03-27 11:06:28,844 root INFO  scored : 3
+2022-03-27 11:06:29,317 root INFO  scored : 6
+2022-03-27 11:06:29,758 root INFO  scored : 6
+2022-03-27 11:06:30,144 root INFO  scored : 3
+2022-03-27 11:06:30,973 root INFO  scored : 1
+2022-03-27 11:06:31,241 root INFO  scored : 1
+2022-03-27 11:06:31,242 root INFO 20 / 0
+2022-03-27 11:06:31,242 root INFO  overs  :1
+2022-03-27 11:06:31,498 root INFO  scored : 1
+2022-03-27 11:06:31,723 root INFO  scored : 2
+2022-03-27 11:06:32,143 root INFO  scored : 2
+2022-03-27 11:06:32,431 root INFO  scored : 4
+2022-03-27 11:06:32,745 root INFO  scored : 0
+2022-03-27 11:06:33,041 root INFO  scored : 3
+2022-03-27 11:06:33,041 root INFO 32 / 0
+2022-03-27 11:06:33,041 root INFO  overs  :2
+2022-03-27 11:06:33,648 root INFO 32 / 1
+2022-03-27 11:06:33,648 root INFO  overs  :2.1
+2022-03-27 11:06:33,968 root INFO  scored : 0
+2022-03-27 11:06:34,313 root INFO  scored : 1
+2022-03-27 11:06:34,556 root INFO  scored : 3
+2022-03-27 11:06:34,815 root INFO  scored : 2
+2022-03-27 11:06:35,344 root INFO 38 / 2
+2022-03-27 11:06:35,344 root INFO 38 / 2
+2022-03-27 11:06:35,344 root INFO  overs  :3
+2022-03-27 11:06:35,750 root INFO  scored : 1
+2022-03-27 11:06:36,108 root INFO  scored : 1
+2022-03-27 11:06:36,421 root INFO  scored : 3
+2022-03-27 11:06:36,791 root INFO  scored : 6
+2022-03-27 11:06:37,237 root INFO  scored : 6
+2022-03-27 11:06:37,862 root INFO  scored : 2
+2022-03-27 11:06:37,863 root INFO 57 / 2
+2022-03-27 11:06:37,863 root INFO  overs  :4
+2022-03-27 11:06:42,793 root INFO 57 / 3
+2022-03-27 11:06:42,793 root INFO  overs  :4.1
+2022-03-27 11:06:43,564 root INFO  scored : 6
+2022-03-27 11:06:43,901 root INFO  scored : 0
+2022-03-27 11:06:44,279 root INFO  scored : 1
+2022-03-27 11:06:48,155 root INFO  scored : 1
+2022-03-27 11:06:48,475 root INFO  scored : 2
+2022-03-27 11:06:48,475 root INFO first inning ends sucessfully
+2022-03-27 11:06:48,475 root INFO second innings
+2022-03-27 11:06:49,872 root INFO  scored : 1
+2022-03-27 11:06:50,464 root INFO  scored : 6
+2022-03-27 11:06:50,774 root INFO  scored : 4
+2022-03-27 11:06:51,055 root INFO  scored : 2
+2022-03-27 11:06:51,410 root INFO 13 / 1
+2022-03-27 11:06:51,695 root INFO  overs  :0.5
+2022-03-27 11:06:52,000 root INFO  scored : 2
+2022-03-27 11:06:52,000 root INFO 15 / 1
+2022-03-27 11:06:52,001 root INFO  overs  :1
+2022-03-27 11:06:52,345 root INFO  scored : 0
+2022-03-27 11:06:52,898 root INFO 15 / 2
+2022-03-27 11:06:54,266 root INFO  overs  :1.2
+2022-03-27 11:06:54,820 root INFO  scored : 2
+2022-03-27 11:06:55,427 root INFO  scored : 1
+2022-03-27 11:06:55,898 root INFO  scored : 1
+2022-03-27 11:06:56,315 root INFO  scored : 4
+2022-03-27 11:06:56,315 root INFO 23 / 2
+2022-03-27 11:06:56,316 root INFO  overs  :2
+2022-03-27 11:06:56,770 root INFO  scored : 3
+2022-03-27 11:06:57,443 root INFO  scored : 0
+2022-03-27 11:06:58,057 root INFO  scored : 1
+2022-03-27 11:06:58,770 root INFO  scored : 2
+2022-03-27 11:06:59,354 root INFO  scored : 2
+2022-03-27 11:06:59,943 root INFO  scored : 6
+2022-03-27 11:06:59,943 root INFO 37 / 2
+2022-03-27 11:06:59,943 root INFO  overs  :3
+2022-03-27 11:07:00,625 root INFO  scored : 4
+2022-03-27 11:07:01,237 root INFO  scored : 2
+2022-03-27 11:07:01,854 root INFO  scored : 1
+2022-03-27 11:07:02,472 root INFO 44 / 3
+2022-03-27 11:07:03,278 root INFO  overs  :3.4
+2022-03-27 11:07:03,984 root INFO  scored : 6
+2022-03-27 11:07:04,809 root INFO  scored : 0
+2022-03-27 11:07:04,809 root INFO 50 / 3
+2022-03-27 11:07:04,809 root INFO  overs  :4
+2022-03-27 11:07:13,559 root INFO  scored : 2
+2022-03-27 11:07:14,096 root INFO  scored : 6
+2022-03-27 11:07:14,625 root INFO 58 / 4
+2022-03-27 11:07:15,213 root INFO  overs  :4.3
+2022-03-27 11:07:16,057 root INFO  scored : 3
+2022-03-27 11:07:16,907 root INFO  scored : 2
+2022-03-27 11:07:17,752 root INFO 63 / 5
+2022-03-27 11:07:18,413 root INFO second inning ends sucessfully
+2022-03-27 11:07:18,414 root INFO aaaa score : 67
+2022-03-27 11:07:18,414 root INFO ddddd score : 63
+2022-03-27 11:07:18,414 root INFO winner is : aaaa
+2022-03-27 11:07:33,301 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 11:07:33,302 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 11:07:33,302 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 11:07:33,309 root ERROR error occured at database : 1049 (42000): Unknown database 'try'
+2022-03-27 11:07:33,311 root INFO module runned sucessfully
+2022-03-27 11:10:03,978 root INFO data entered sucessfully :-  team1 : frffr: team2 :ffffff
+2022-03-27 11:10:06,105 root INFO coin rolled was : tail
+2022-03-27 11:10:06,106 root INFO toss was winned by : ffffff
+2022-03-27 11:10:07,511 root INFO ffffff choses to  : f
+2022-03-27 11:10:07,511 root INFO first ining
+2022-03-27 11:10:08,775 root INFO  scored : 6
+2022-03-27 11:10:09,044 root INFO  scored : 2
+2022-03-27 11:10:09,272 root INFO  scored : 0
+2022-03-27 11:10:09,454 root INFO  scored : 0
+2022-03-27 11:10:09,628 root INFO  scored : 2
+2022-03-27 11:10:09,794 root INFO  scored : 6
+2022-03-27 11:10:09,794 root INFO 16 / 0
+2022-03-27 11:10:09,794 root INFO  overs  :1
+2022-03-27 11:10:09,953 root INFO  scored : 2
+2022-03-27 11:10:10,109 root INFO  scored : 1
+2022-03-27 11:10:10,261 root INFO  scored : 4
+2022-03-27 11:10:10,387 root INFO  scored : 1
+2022-03-27 11:10:10,512 root INFO  scored : 2
+2022-03-27 11:10:10,619 root INFO  scored : 3
+2022-03-27 11:10:10,620 root INFO 29 / 0
+2022-03-27 11:10:10,621 root INFO  overs  :2
+2022-03-27 11:10:10,761 root INFO  scored : 2
+2022-03-27 11:10:10,880 root INFO  scored : 4
+2022-03-27 11:10:11,107 root INFO  scored : 0
+2022-03-27 11:10:11,595 root INFO 35 / 1
+2022-03-27 11:10:11,596 root INFO  overs  :2.4
+2022-03-27 11:10:11,770 root INFO  scored : 0
+2022-03-27 11:10:12,023 root INFO  scored : 6
+2022-03-27 11:10:12,023 root INFO 41 / 1
+2022-03-27 11:10:12,023 root INFO  overs  :3
+2022-03-27 11:10:12,406 root INFO 41 / 2
+2022-03-27 11:10:12,406 root INFO  overs  :3.1
+2022-03-27 11:10:12,575 root INFO  scored : 0
+2022-03-27 11:10:12,729 root INFO  scored : 1
+2022-03-27 11:10:12,902 root INFO  scored : 0
+2022-03-27 11:10:13,068 root INFO  scored : 4
+2022-03-27 11:10:13,233 root INFO  scored : 0
+2022-03-27 11:10:13,233 root INFO 46 / 2
+2022-03-27 11:10:13,233 root INFO  overs  :4
+2022-03-27 11:10:13,572 root INFO 46 / 3
+2022-03-27 11:10:13,572 root INFO  overs  :4.1
+2022-03-27 11:10:13,748 root INFO  scored : 6
+2022-03-27 11:10:13,959 root INFO  scored : 6
+2022-03-27 11:10:14,190 root INFO  scored : 1
+2022-03-27 11:10:14,674 root INFO 59 / 4
+2022-03-27 11:10:14,674 root INFO  overs  :4.5
+2022-03-27 11:10:15,397 root INFO  scored : 4
+2022-03-27 11:10:15,397 root INFO first inning ends sucessfully
+2022-03-27 11:10:15,398 root INFO second innings
+2022-03-27 11:10:16,237 root INFO  scored : 4
+2022-03-27 11:10:16,670 root INFO  scored : 0
+2022-03-27 11:11:54,753 root INFO  scored : 2
+2022-03-27 11:11:54,753 root INFO 6 / 1
+2022-03-27 11:11:55,055 root INFO  overs  :0.4
+2022-03-27 11:11:55,749 root INFO  scored : 6
+2022-03-27 11:11:56,309 root INFO 12 / 2
+2022-03-27 11:11:56,854 root INFO 12 / 2
+2022-03-27 11:11:56,855 root INFO  overs  :1
+2022-03-27 11:11:57,249 root INFO  scored : 4
+2022-03-27 11:11:57,821 root INFO  scored : 6
+2022-03-27 11:11:58,542 root INFO 22 / 3
+2022-03-27 11:11:59,135 root INFO  overs  :1.3
+2022-03-27 11:11:59,825 root INFO  scored : 0
+2022-03-27 11:12:00,344 root INFO  scored : 2
+2022-03-27 11:12:00,865 root INFO  scored : 2
+2022-03-27 11:12:00,866 root INFO 26 / 3
+2022-03-27 11:12:00,866 root INFO  overs  :2
+2022-03-27 11:12:01,252 root INFO 26 / 4
+2022-03-27 11:12:01,821 root INFO  overs  :2.1
+2022-03-27 11:12:02,272 root INFO  scored : 6
+2022-03-27 11:12:02,761 root INFO  scored : 6
+2022-03-27 11:12:03,177 root INFO  scored : 4
+2022-03-27 11:12:03,527 root INFO  scored : 6
+2022-03-27 11:12:03,869 root INFO  scored : 2
+2022-03-27 11:12:03,869 root INFO 50 / 4
+2022-03-27 11:12:03,870 root INFO  overs  :3
+2022-03-27 11:12:04,157 root INFO  scored : 0
+2022-03-27 11:12:04,493 root INFO  scored : 2
+2022-03-27 11:12:04,876 root INFO  scored : 0
+2022-03-27 11:12:05,220 root INFO  scored : 0
+2022-03-27 11:12:05,588 root INFO 52 / 5
+2022-03-27 11:12:05,904 root INFO  overs  :3.5
+2022-03-27 11:12:06,243 root INFO  scored : 6
+2022-03-27 11:12:06,243 root INFO 58 / 5
+2022-03-27 11:12:06,243 root INFO  overs  :4
+2022-03-27 11:12:06,591 root INFO  scored : 4
+2022-03-27 11:12:07,242 root INFO 62 / 6
+2022-03-27 11:12:07,727 root INFO  overs  :4.2
+2022-03-27 11:12:08,269 root INFO  scored : 0
+2022-03-27 11:12:09,022 root INFO  scored : 2
+2022-03-27 11:12:09,022 root INFO second inning ends sucessfully
+2022-03-27 11:12:09,023 root INFO frffr score : 63
+2022-03-27 11:12:09,023 root INFO ffffff score : 64
+2022-03-27 11:12:09,023 root INFO winner is : ffffff
+2022-03-27 11:12:09,382 root INFO module runned sucessfully
+2022-03-27 11:12:26,863 root INFO data entered sucessfully :-  team1 : v: team2 :b
+2022-03-27 11:12:27,306 root INFO coin rolled was : head
+2022-03-27 11:12:27,307 root INFO toss was winned by : b
+2022-03-27 11:12:27,840 root INFO b choses to  : 
+2022-03-27 11:12:27,841 root INFO first ining
+2022-03-27 11:12:29,428 root INFO  scored : 1
+2022-03-27 11:12:29,956 root INFO  scored : 1
+2022-03-27 11:12:30,431 root INFO  scored : 2
+2022-03-27 11:12:30,936 root INFO  scored : 3
+2022-03-27 11:12:31,394 root INFO  scored : 0
+2022-03-27 11:12:31,830 root INFO  scored : 3
+2022-03-27 11:12:31,830 root INFO 10 / 0
+2022-03-27 11:12:31,830 root INFO  overs  :1
+2022-03-27 11:12:32,369 root INFO  scored : 3
+2022-03-27 11:12:32,838 root INFO  scored : 6
+2022-03-27 11:12:33,298 root INFO  scored : 1
+2022-03-27 11:12:33,788 root INFO  scored : 6
+2022-03-27 11:12:34,702 root INFO 26 / 1
+2022-03-27 11:12:34,703 root INFO  overs  :1.5
+2022-03-27 11:12:35,189 root INFO  scored : 0
+2022-03-27 11:12:35,189 root INFO 26 / 1
+2022-03-27 11:12:35,189 root INFO  overs  :2
+2022-03-27 11:12:35,697 root INFO  scored : 6
+2022-03-27 11:12:36,290 root INFO  scored : 6
+2022-03-27 11:12:37,427 root INFO 38 / 2
+2022-03-27 11:12:37,427 root INFO  overs  :2.3
+2022-03-27 11:12:37,963 root INFO  scored : 6
+2022-03-27 11:12:38,536 root INFO  scored : 2
+2022-03-27 11:12:39,080 root INFO  scored : 2
+2022-03-27 11:12:39,080 root INFO 48 / 2
+2022-03-27 11:12:39,080 root INFO  overs  :3
+2022-03-27 11:12:40,225 root INFO 48 / 3
+2022-03-27 11:12:40,225 root INFO  overs  :3.1
+2022-03-27 11:12:40,874 root INFO  scored : 2
+2022-03-27 11:12:41,442 root INFO  scored : 6
+2022-03-27 11:12:42,273 root INFO  scored : 4
+2022-03-27 11:12:42,838 root INFO  scored : 6
+2022-03-27 11:12:43,470 root INFO  scored : 0
+2022-03-27 11:12:43,470 root INFO 66 / 3
+2022-03-27 11:12:43,470 root INFO  overs  :4
+2022-03-27 11:12:44,107 root INFO  scored : 6
+2022-03-27 11:12:45,088 root INFO  scored : 1
+2022-03-27 11:12:45,945 root INFO  scored : 0
+2022-03-27 11:12:46,391 root INFO  scored : 6
+2022-03-27 11:12:47,028 root INFO  scored : 1
+2022-03-27 11:12:47,734 root INFO  scored : 6
+2022-03-27 11:12:47,734 root INFO first inning ends sucessfully
+2022-03-27 11:12:47,734 root INFO second innings
+2022-03-27 11:12:49,677 root INFO  scored : 3
+2022-03-27 11:12:50,230 root INFO  scored : 2
+2022-03-27 11:12:50,705 root INFO  scored : 0
+2022-03-27 11:12:51,120 root INFO  scored : 4
+2022-03-27 11:12:51,625 root INFO  scored : 0
+2022-03-27 11:12:52,005 root INFO  scored : 3
+2022-03-27 11:12:52,006 root INFO 12 / 0
+2022-03-27 11:12:52,006 root INFO  overs  :1
+2022-03-27 11:12:52,943 root INFO  scored : 6
+2022-03-27 11:12:53,486 root INFO  scored : 0
+2022-03-27 11:12:53,970 root INFO  scored : 1
+2022-03-27 11:12:54,453 root INFO  scored : 1
+2022-03-27 11:12:54,942 root INFO  scored : 0
+2022-03-27 11:12:55,497 root INFO  scored : 1
+2022-03-27 11:12:55,497 root INFO 21 / 0
+2022-03-27 11:12:55,497 root INFO  overs  :2
+2022-03-27 11:12:57,745 root INFO  scored : 2
+2022-03-27 11:12:58,406 root INFO  scored : 1
+2022-03-27 11:12:58,968 root INFO  scored : 6
+2022-03-27 11:12:59,505 root INFO  scored : 2
+2022-03-27 11:13:00,007 root INFO  scored : 6
+2022-03-27 11:13:00,611 root INFO 38 / 1
+2022-03-27 11:13:01,193 root INFO 38 / 1
+2022-03-27 11:13:01,194 root INFO  overs  :3
+2022-03-27 11:13:02,179 root INFO 38 / 2
+2022-03-27 11:13:02,785 root INFO  overs  :3.1
+2022-03-27 11:13:03,600 root INFO  scored : 1
+2022-03-27 11:13:04,426 root INFO 39 / 3
+2022-03-27 11:13:04,894 root INFO  overs  :3.3
+2022-03-27 11:13:05,517 root INFO  scored : 1
+2022-03-27 11:13:06,254 root INFO 40 / 4
+2022-03-27 11:13:06,981 root INFO  overs  :3.5
+2022-03-27 11:13:07,713 root INFO  scored : 1
+2022-03-27 11:13:07,713 root INFO 41 / 4
+2022-03-27 11:13:07,713 root INFO  overs  :4
+2022-03-27 11:13:09,483 root INFO  scored : 4
+2022-03-27 11:13:10,744 root INFO  scored : 2
+2022-03-27 11:13:15,615 root INFO  scored : 2
+2022-03-27 11:13:16,232 root INFO  scored : 2
+2022-03-27 11:13:16,883 root INFO  scored : 6
+2022-03-27 11:13:17,509 root INFO  scored : 4
+2022-03-27 11:13:17,509 root INFO second inning ends sucessfully
+2022-03-27 11:13:17,509 root INFO v score : 86
+2022-03-27 11:13:17,509 root INFO b score : 61
+2022-03-27 11:13:17,510 root INFO winner is : v
+2022-03-27 11:13:41,530 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 11:13:41,530 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 11:13:41,531 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 11:13:41,538 root ERROR error occured at database : 1007 (HY000): Can't create database 'cricket'; database exists
+2022-03-27 11:13:41,608 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 11:13:41,608 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 11:13:41,608 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 11:13:41,614 root ERROR error occured at database : 1049 (42000): Unknown database 'try'
+2022-03-27 11:13:41,614 root INFO module runned sucessfully
+2022-03-27 11:38:49,850 root INFO data entered sucessfully :-  team1 : ad: team2 :ad
+2022-03-27 11:38:50,549 root INFO coin rolled was : head
+2022-03-27 11:38:50,550 root INFO toss was winned by : ad
+2022-03-27 11:38:51,438 root INFO ad choses to  : a
+2022-03-27 11:38:51,439 root INFO first ining
+2022-03-27 11:38:52,703 root INFO  scored : 2
+2022-03-27 11:38:52,984 root INFO  scored : 2
+2022-03-27 11:38:53,223 root INFO  scored : 4
+2022-03-27 11:38:53,452 root INFO  scored : 0
+2022-03-27 11:38:53,649 root INFO  scored : 0
+2022-03-27 11:38:53,846 root INFO  scored : 6
+2022-03-27 11:38:53,846 root INFO 14 / 0
+2022-03-27 11:38:53,846 root INFO  overs  :1
+2022-03-27 11:38:54,049 root INFO  scored : 2
+2022-03-27 11:38:54,216 root INFO  scored : 0
+2022-03-27 11:38:54,565 root INFO 16 / 1
+2022-03-27 11:38:54,565 root INFO  overs  :1.3
+2022-03-27 11:38:54,749 root INFO  scored : 2
+2022-03-27 11:38:54,911 root INFO  scored : 1
+2022-03-27 11:38:55,078 root INFO  scored : 6
+2022-03-27 11:38:55,078 root INFO 25 / 1
+2022-03-27 11:38:55,078 root INFO  overs  :2
+2022-03-27 11:38:55,246 root INFO  scored : 1
+2022-03-27 11:38:55,412 root INFO  scored : 6
+2022-03-27 11:38:55,570 root INFO  scored : 4
+2022-03-27 11:38:55,714 root INFO  scored : 0
+2022-03-27 11:38:55,868 root INFO  scored : 0
+2022-03-27 11:38:56,150 root INFO  scored : 1
+2022-03-27 11:38:56,151 root INFO 37 / 1
+2022-03-27 11:38:56,151 root INFO  overs  :3
+2022-03-27 11:38:56,534 root INFO 37 / 2
+2022-03-27 11:38:56,534 root INFO  overs  :3.1
+2022-03-27 11:38:56,753 root INFO  scored : 2
+2022-03-27 11:38:56,952 root INFO  scored : 0
+2022-03-27 11:38:57,110 root INFO  scored : 0
+2022-03-27 11:38:57,292 root INFO  scored : 1
+2022-03-27 11:38:57,498 root INFO  scored : 1
+2022-03-27 11:38:57,498 root INFO 41 / 2
+2022-03-27 11:38:57,498 root INFO  overs  :4
+2022-03-27 11:38:57,683 root INFO  scored : 6
+2022-03-27 11:38:57,877 root INFO  scored : 6
+2022-03-27 11:38:58,077 root INFO  scored : 0
+2022-03-27 11:38:58,262 root INFO  scored : 2
+2022-03-27 11:38:58,450 root INFO  scored : 4
+2022-03-27 11:38:58,820 root INFO 59 / 3
+2022-03-27 11:38:58,820 root INFO first inning ends sucessfully
+2022-03-27 11:38:58,821 root INFO second innings
+2022-03-27 11:38:59,793 root INFO  scored : 1
+2022-03-27 11:39:00,009 root INFO  scored : 1
+2022-03-27 11:39:00,180 root INFO 2 / 1
+2022-03-27 11:39:00,366 root INFO  overs  :0.3
+2022-03-27 11:39:00,529 root INFO  scored : 1
+2022-03-27 11:39:00,698 root INFO  scored : 6
+2022-03-27 11:39:00,868 root INFO  scored : 1
+2022-03-27 11:39:00,868 root INFO 10 / 1
+2022-03-27 11:39:00,868 root INFO  overs  :1
+2022-03-27 11:39:01,049 root INFO  scored : 2
+2022-03-27 11:39:01,675 root INFO  scored : 6
+2022-03-27 11:39:01,852 root INFO  scored : 4
+2022-03-27 11:39:02,370 root INFO  scored : 2
+2022-03-27 11:39:02,568 root INFO 24 / 2
+2022-03-27 11:39:03,096 root INFO  overs  :1.5
+2022-03-27 11:39:03,682 root INFO  scored : 0
+2022-03-27 11:39:03,683 root INFO 24 / 2
+2022-03-27 11:39:03,683 root INFO  overs  :2
+2022-03-27 11:39:04,060 root INFO  scored : 1
+2022-03-27 11:39:04,650 root INFO  scored : 2
+2022-03-27 11:39:05,104 root INFO  scored : 2
+2022-03-27 11:39:05,673 root INFO  scored : 6
+2022-03-27 11:39:06,271 root INFO  scored : 0
+2022-03-27 11:39:06,796 root INFO 35 / 3
+2022-03-27 11:39:07,283 root INFO 35 / 3
+2022-03-27 11:39:07,283 root INFO  overs  :3
+2022-03-27 11:39:07,940 root INFO  scored : 6
+2022-03-27 11:39:09,161 root INFO  scored : 1
+2022-03-27 11:39:09,969 root INFO  scored : 2
+2022-03-27 11:39:10,703 root INFO  scored : 6
+2022-03-27 11:39:11,444 root INFO  scored : 2
+2022-03-27 11:39:12,082 root INFO  scored : 2
+2022-03-27 11:39:12,082 root INFO 54 / 3
+2022-03-27 11:39:12,082 root INFO  overs  :4
+2022-03-27 11:39:13,261 root INFO  scored : 1
+2022-03-27 11:39:13,852 root INFO  scored : 3
+2022-03-27 11:39:14,438 root INFO  scored : 1
+2022-03-27 11:39:14,989 root INFO  scored : 3
+2022-03-27 11:39:14,989 root INFO second inning ends sucessfully
+2022-03-27 11:39:14,989 root INFO ad score : 59
+2022-03-27 11:39:14,989 root INFO ad score : 62
+2022-03-27 11:39:14,990 root INFO winner is : ad
+2022-03-27 11:39:15,545 root INFO module runned sucessfully
+2022-03-27 11:39:24,462 root INFO data entered sucessfully :-  team1 : gg: team2 :h
+2022-03-27 11:39:25,411 root INFO coin rolled was : tail
+2022-03-27 11:39:25,411 root INFO toss was winned by : h
+2022-03-27 11:39:25,969 root INFO h choses to  : 
+2022-03-27 11:39:25,969 root INFO first ining
+2022-03-27 11:39:28,345 root INFO 0 / 1
+2022-03-27 11:39:28,346 root INFO  overs  :0.1
+2022-03-27 11:39:29,233 root INFO 0 / 2
+2022-03-27 11:39:29,234 root INFO  overs  :0.2
+2022-03-27 11:39:29,691 root INFO  scored : 6
+2022-03-27 11:39:30,054 root INFO  scored : 0
+2022-03-27 11:39:30,431 root INFO  scored : 0
+2022-03-27 11:39:30,766 root INFO  scored : 6
+2022-03-27 11:39:30,766 root INFO 12 / 2
+2022-03-27 11:39:30,766 root INFO  overs  :1
+2022-03-27 11:39:31,065 root INFO  scored : 2
+2022-03-27 11:39:31,322 root INFO  scored : 4
+2022-03-27 11:39:31,644 root INFO  scored : 0
+2022-03-27 11:39:31,958 root INFO  scored : 2
+2022-03-27 11:39:32,526 root INFO 20 / 3
+2022-03-27 11:39:32,527 root INFO  overs  :1.5
+2022-03-27 11:39:32,797 root INFO  scored : 2
+2022-03-27 11:39:32,797 root INFO 22 / 3
+2022-03-27 11:39:32,798 root INFO  overs  :2
+2022-03-27 11:39:33,294 root INFO 22 / 4
+2022-03-27 11:39:33,295 root INFO  overs  :2.1
+2022-03-27 11:39:33,524 root INFO  scored : 2
+2022-03-27 11:39:33,743 root INFO  scored : 2
+2022-03-27 11:39:34,244 root INFO 26 / 5
+2022-03-27 11:39:34,244 root INFO  overs  :2.4
+2022-03-27 11:39:34,484 root INFO  scored : 1
+2022-03-27 11:39:34,724 root INFO  scored : 1
+2022-03-27 11:39:34,725 root INFO 28 / 5
+2022-03-27 11:39:34,725 root INFO  overs  :3
+2022-03-27 11:39:35,441 root INFO  scored : 1
+2022-03-27 11:39:36,014 root INFO  scored : 6
+2022-03-27 11:39:36,462 root INFO  scored : 6
+2022-03-27 11:39:36,796 root INFO  scored : 2
+2022-03-27 11:39:37,536 root INFO 43 / 6
+2022-03-27 11:39:37,537 root INFO  overs  :3.5
+2022-03-27 11:39:38,391 root INFO 43 / 7
+2022-03-27 11:39:38,391 root INFO 43 / 7
+2022-03-27 11:39:38,391 root INFO  overs  :4
+2022-03-27 11:39:39,342 root INFO 43 / 8
+2022-03-27 11:39:39,342 root INFO  overs  :4.1
+2022-03-27 11:39:39,820 root INFO  scored : 1
+2022-03-27 11:39:40,307 root INFO  scored : 0
+2022-03-27 11:39:40,766 root INFO  scored : 1
+2022-03-27 11:39:41,692 root INFO  scored : 2
+2022-03-27 11:39:42,128 root INFO  scored : 6
+2022-03-27 11:39:42,129 root INFO first inning ends sucessfully
+2022-03-27 11:39:42,129 root INFO second innings
+2022-03-27 11:39:43,889 root INFO  scored : 1
+2022-03-27 11:39:44,451 root INFO  scored : 2
+2022-03-27 11:39:45,016 root INFO 3 / 1
+2022-03-27 11:39:45,660 root INFO  overs  :0.3
+2022-03-27 11:39:46,942 root INFO  scored : 0
+2022-03-27 11:39:47,581 root INFO  scored : 4
+2022-03-27 11:39:48,208 root INFO  scored : 2
+2022-03-27 11:39:48,209 root INFO 9 / 1
+2022-03-27 11:39:48,209 root INFO  overs  :1
+2022-03-27 11:39:48,858 root INFO  scored : 1
+2022-03-27 11:39:49,700 root INFO  scored : 2
+2022-03-27 11:39:50,306 root INFO  scored : 2
+2022-03-27 11:39:50,919 root INFO  scored : 2
+2022-03-27 11:39:51,656 root INFO  scored : 1
+2022-03-27 11:39:52,256 root INFO  scored : 1
+2022-03-27 11:39:52,257 root INFO 18 / 1
+2022-03-27 11:39:52,257 root INFO  overs  :2
+2022-03-27 11:39:52,880 root INFO  scored : 2
+2022-03-27 11:39:53,651 root INFO  scored : 6
+2022-03-27 11:39:54,276 root INFO  scored : 1
+2022-03-27 11:39:54,888 root INFO  scored : 1
+2022-03-27 11:39:55,508 root INFO  scored : 4
+2022-03-27 11:39:56,236 root INFO  scored : 4
+2022-03-27 11:39:56,236 root INFO 36 / 1
+2022-03-27 11:39:56,236 root INFO  overs  :3
+2022-03-27 11:39:57,163 root INFO  scored : 4
+2022-03-27 11:39:57,813 root INFO  scored : 0
+2022-03-27 11:39:58,366 root INFO 40 / 2
+2022-03-27 11:39:58,991 root INFO  overs  :3.3
+2022-03-27 11:39:59,900 root INFO  scored : 1
+2022-03-27 11:40:00,981 root INFO  scored : 1
+2022-03-27 11:40:01,783 root INFO  scored : 6
+2022-03-27 11:40:01,784 root INFO 48 / 2
+2022-03-27 11:40:01,784 root INFO  overs  :4
+2022-03-27 11:40:02,995 root INFO  scored : 6
+2022-03-27 11:40:02,996 root INFO second inning ends sucessfully
+2022-03-27 11:40:02,996 root INFO gg score : 53
+2022-03-27 11:40:02,996 root INFO h score : 54
+2022-03-27 11:40:02,996 root INFO winner is : h
+2022-03-27 11:40:22,541 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 11:40:22,541 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 11:40:22,542 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 11:40:22,625 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 11:40:22,625 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 11:40:22,625 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 11:40:22,665 root INFO first time database stored sucessfully
+2022-03-27 11:40:22,736 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 11:40:22,736 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 11:40:22,736 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 11:40:22,743 root INFO the id for the match was : 37262
+2022-03-27 11:40:22,747 root INFO data stored in database sucessfully in database : first
+2022-03-27 11:40:22,750 root INFO module runned sucessfully
+2022-03-27 11:44:28,854 root INFO data entered sucessfully :-  team1 : dd: team2 :d
+2022-03-27 11:44:29,785 root INFO coin rolled was : head
+2022-03-27 11:44:29,785 root INFO toss was winned by : d
+2022-03-27 11:44:30,363 root INFO d choses to  : d
+2022-03-27 11:44:30,364 root INFO first ining
+2022-03-27 11:44:31,754 root INFO  scored : 6
+2022-03-27 11:44:31,989 root INFO  scored : 0
+2022-03-27 11:44:32,191 root INFO  scored : 3
+2022-03-27 11:44:32,382 root INFO  scored : 2
+2022-03-27 11:44:32,572 root INFO  scored : 0
+2022-03-27 11:44:32,760 root INFO  scored : 2
+2022-03-27 11:44:32,760 root INFO 13 / 0
+2022-03-27 11:44:32,761 root INFO  overs  :1
+2022-03-27 11:44:32,937 root INFO  scored : 4
+2022-03-27 11:44:33,114 root INFO  scored : 2
+2022-03-27 11:44:33,312 root INFO  scored : 1
+2022-03-27 11:44:33,514 root INFO  scored : 2
+2022-03-27 11:44:33,709 root INFO  scored : 1
+2022-03-27 11:44:34,101 root INFO 23 / 1
+2022-03-27 11:44:34,102 root INFO 23 / 1
+2022-03-27 11:44:34,102 root INFO  overs  :2
+2022-03-27 11:44:34,311 root INFO  scored : 4
+2022-03-27 11:44:34,492 root INFO  scored : 4
+2022-03-27 11:44:34,901 root INFO 31 / 2
+2022-03-27 11:44:34,902 root INFO  overs  :2.3
+2022-03-27 11:44:35,075 root INFO  scored : 2
+2022-03-27 11:44:35,280 root INFO  scored : 1
+2022-03-27 11:44:35,481 root INFO  scored : 2
+2022-03-27 11:44:35,481 root INFO 36 / 2
+2022-03-27 11:44:35,481 root INFO  overs  :3
+2022-03-27 11:44:35,681 root INFO  scored : 1
+2022-03-27 11:44:35,903 root INFO  scored : 6
+2022-03-27 11:44:36,095 root INFO  scored : 3
+2022-03-27 11:44:36,509 root INFO 46 / 3
+2022-03-27 11:44:36,510 root INFO  overs  :3.4
+2022-03-27 11:44:36,916 root INFO 46 / 4
+2022-03-27 11:44:36,917 root INFO  overs  :3.5
+2022-03-27 11:44:37,132 root INFO  scored : 2
+2022-03-27 11:44:37,132 root INFO 48 / 4
+2022-03-27 11:44:37,132 root INFO  overs  :4
+2022-03-27 11:44:37,343 root INFO  scored : 4
+2022-03-27 11:44:37,539 root INFO  scored : 0
+2022-03-27 11:44:37,742 root INFO  scored : 3
+2022-03-27 11:44:37,959 root INFO  scored : 2
+2022-03-27 11:44:38,161 root INFO  scored : 0
+2022-03-27 11:44:38,368 root INFO  scored : 0
+2022-03-27 11:44:38,369 root INFO first inning ends sucessfully
+2022-03-27 11:44:38,369 root INFO second innings
+2022-03-27 11:44:39,119 root INFO  scored : 0
+2022-03-27 11:44:39,494 root INFO  scored : 2
+2022-03-27 11:44:40,106 root INFO  scored : 6
+2022-03-27 11:44:40,581 root INFO  scored : 1
+2022-03-27 11:44:41,021 root INFO  scored : 1
+2022-03-27 11:44:41,507 root INFO  scored : 1
+2022-03-27 11:44:41,508 root INFO 11 / 0
+2022-03-27 11:44:41,508 root INFO  overs  :1
+2022-03-27 11:44:41,918 root INFO  scored : 6
+2022-03-27 11:44:42,463 root INFO 17 / 1
+2022-03-27 11:44:42,940 root INFO  overs  :1.2
+2022-03-27 11:44:43,400 root INFO  scored : 3
+2022-03-27 11:44:44,279 root INFO  scored : 6
+2022-03-27 11:44:44,676 root INFO  scored : 0
+2022-03-27 11:44:45,211 root INFO  scored : 2
+2022-03-27 11:44:45,212 root INFO 28 / 1
+2022-03-27 11:44:45,212 root INFO  overs  :2
+2022-03-27 11:44:45,715 root INFO  scored : 0
+2022-03-27 11:44:46,443 root INFO 28 / 2
+2022-03-27 11:44:47,116 root INFO  overs  :2.2
+2022-03-27 11:44:47,861 root INFO  scored : 0
+2022-03-27 11:44:48,403 root INFO 28 / 3
+2022-03-27 11:44:48,965 root INFO  overs  :2.4
+2022-03-27 11:44:49,510 root INFO  scored : 2
+2022-03-27 11:44:50,067 root INFO 30 / 4
+2022-03-27 11:44:50,585 root INFO 30 / 4
+2022-03-27 11:44:50,587 root INFO  overs  :3
+2022-03-27 11:44:51,248 root INFO  scored : 0
+2022-03-27 11:44:51,911 root INFO 30 / 5
+2022-03-27 11:44:52,541 root INFO  overs  :3.2
+2022-03-27 11:44:53,125 root INFO  scored : 2
+2022-03-27 11:44:53,730 root INFO  scored : 0
+2022-03-27 11:44:54,333 root INFO  scored : 6
+2022-03-27 11:44:54,845 root INFO 38 / 6
+2022-03-27 11:44:55,446 root INFO 38 / 6
+2022-03-27 11:44:55,447 root INFO  overs  :4
+2022-03-27 11:44:56,122 root INFO  scored : 2
+2022-03-27 11:44:56,784 root INFO  scored : 2
+2022-03-27 11:44:57,344 root INFO  scored : 0
+2022-03-27 11:44:58,013 root INFO  scored : 6
+2022-03-27 11:44:58,680 root INFO  scored : 4
+2022-03-27 11:44:59,456 root INFO  scored : 1
+2022-03-27 11:44:59,457 root INFO second inning ends sucessfully
+2022-03-27 11:44:59,457 root INFO dd score : 57
+2022-03-27 11:44:59,457 root INFO d score : 53
+2022-03-27 11:44:59,457 root INFO winner is : dd
+2022-03-27 11:45:04,792 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 11:45:04,792 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 11:45:04,792 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 11:45:04,797 root INFO the id for the match was : 63071
+2022-03-27 11:45:04,800 root INFO data stored in database sucessfully in database : cricket
+2022-03-27 11:45:04,802 root INFO module runned sucessfully
+2022-03-27 11:53:10,530 root INFO data entered sucessfully :-  team1 : dc: team2 :f
+2022-03-27 11:53:11,230 root INFO coin rolled was : head
+2022-03-27 11:53:11,230 root INFO toss was winned by : f
+2022-03-27 11:53:11,741 root INFO f choses to  : f
+2022-03-27 11:53:11,742 root INFO first ining
+2022-03-27 11:53:13,680 root INFO 0 / 1
+2022-03-27 11:53:13,680 root INFO  overs  :0.1
+2022-03-27 11:53:14,086 root INFO  scored : 6
+2022-03-27 11:53:14,971 root INFO 6 / 2
+2022-03-27 11:53:14,971 root INFO  overs  :0.3
+2022-03-27 11:53:15,414 root INFO  scored : 6
+2022-03-27 11:53:15,869 root INFO  scored : 4
+2022-03-27 11:53:16,309 root INFO  scored : 4
+2022-03-27 11:53:16,309 root INFO 20 / 2
+2022-03-27 11:53:16,310 root INFO  overs  :1
+2022-03-27 11:53:16,782 root INFO  scored : 2
+2022-03-27 11:53:17,251 root INFO  scored : 3
+2022-03-27 11:53:17,705 root INFO  scored : 6
+2022-03-27 11:53:18,127 root INFO  scored : 0
+2022-03-27 11:53:18,594 root INFO  scored : 6
+2022-03-27 11:53:19,035 root INFO  scored : 2
+2022-03-27 11:53:19,035 root INFO 39 / 2
+2022-03-27 11:53:19,035 root INFO  overs  :2
+2022-03-27 11:53:19,467 root INFO  scored : 6
+2022-03-27 11:53:19,885 root INFO  scored : 4
+2022-03-27 11:53:20,739 root INFO 49 / 3
+2022-03-27 11:53:20,740 root INFO  overs  :2.3
+2022-03-27 11:53:21,188 root INFO  scored : 2
+2022-03-27 11:53:21,595 root INFO  scored : 0
+2022-03-27 11:53:22,426 root INFO 51 / 4
+2022-03-27 11:53:22,427 root INFO 51 / 4
+2022-03-27 11:53:22,427 root INFO  overs  :3
+2022-03-27 11:53:22,811 root INFO  scored : 3
+2022-03-27 11:53:23,243 root INFO  scored : 4
+2022-03-27 11:53:23,656 root INFO  scored : 6
+2022-03-27 11:53:24,072 root INFO  scored : 0
+2022-03-27 11:53:24,467 root INFO  scored : 2
+2022-03-27 11:53:24,884 root INFO  scored : 1
+2022-03-27 11:53:24,885 root INFO 67 / 4
+2022-03-27 11:53:24,885 root INFO  overs  :4
+2022-03-27 11:53:25,284 root INFO  scored : 4
+2022-03-27 11:53:25,904 root INFO  scored : 1
+2022-03-27 11:53:26,438 root INFO  scored : 0
+2022-03-27 11:53:26,647 root INFO  scored : 0
+2022-03-27 11:53:26,841 root INFO  scored : 0
+2022-03-27 11:53:27,496 root INFO 72 / 5
+2022-03-27 11:53:27,497 root INFO first inning ends sucessfully
+2022-03-27 11:53:27,497 root INFO second innings
+2022-03-27 11:53:29,131 root INFO  scored : 4
+2022-03-27 11:53:29,713 root INFO  scored : 1
+2022-03-27 11:53:30,086 root INFO  scored : 0
+2022-03-27 11:53:30,397 root INFO  scored : 4
+2022-03-27 11:53:30,747 root INFO  scored : 0
+2022-03-27 11:53:31,104 root INFO  scored : 6
+2022-03-27 11:53:31,105 root INFO 15 / 0
+2022-03-27 11:53:31,105 root INFO  overs  :1
+2022-03-27 11:53:31,401 root INFO  scored : 1
+2022-03-27 11:53:31,756 root INFO  scored : 0
+2022-03-27 11:53:32,343 root INFO  scored : 6
+2022-03-27 11:53:32,909 root INFO  scored : 0
+2022-03-27 11:53:33,395 root INFO  scored : 6
+2022-03-27 11:53:33,776 root INFO  scored : 2
+2022-03-27 11:53:33,777 root INFO 30 / 0
+2022-03-27 11:53:33,777 root INFO  overs  :2
+2022-03-27 11:53:34,192 root INFO  scored : 2
+2022-03-27 11:53:34,821 root INFO  scored : 6
+2022-03-27 11:53:35,303 root INFO  scored : 6
+2022-03-27 11:53:35,843 root INFO  scored : 6
+2022-03-27 11:53:36,525 root INFO  scored : 3
+2022-03-27 11:53:36,841 root INFO  scored : 3
+2022-03-27 11:53:36,842 root INFO 56 / 0
+2022-03-27 11:53:36,842 root INFO  overs  :3
+2022-03-27 11:53:37,144 root INFO 56 / 1
+2022-03-27 11:53:37,558 root INFO  overs  :3.1
+2022-03-27 11:53:37,982 root INFO  scored : 6
+2022-03-27 11:53:38,591 root INFO 62 / 2
+2022-03-27 11:53:39,118 root INFO  overs  :3.3
+2022-03-27 11:53:39,632 root INFO  scored : 2
+2022-03-27 11:53:40,127 root INFO  scored : 2
+2022-03-27 11:53:40,622 root INFO  scored : 4
+2022-03-27 11:53:40,622 root INFO 70 / 2
+2022-03-27 11:53:40,622 root INFO  overs  :4
+2022-03-27 11:53:41,118 root INFO 70 / 3
+2022-03-27 11:53:41,732 root INFO  overs  :4.1
+2022-03-27 11:53:42,202 root INFO  scored : 4
+2022-03-27 11:53:42,202 root INFO second inning ends sucessfully
+2022-03-27 11:53:42,202 root INFO dc score : 72
+2022-03-27 11:53:42,202 root INFO f score : 74
+2022-03-27 11:53:42,202 root INFO winner is : f
+2022-03-27 11:53:42,773 root INFO module runned sucessfully
+2022-03-27 11:54:23,672 root INFO data entered sucessfully :-  team1 : sd: team2 :d
+2022-03-27 11:54:24,461 root INFO coin rolled was : tail
+2022-03-27 11:54:24,461 root INFO toss was winned by : d
+2022-03-27 11:54:24,974 root INFO d choses to  : s
+2022-03-27 11:54:24,974 root INFO first ining
+2022-03-27 11:54:27,174 root INFO s scored : 4
+2022-03-27 11:54:27,819 root INFO 4 / 1
+2022-03-27 11:54:27,820 root INFO  overs  :0.2
+2022-03-27 11:54:28,093 root INFO s scored : 2
+2022-03-27 11:54:28,290 root INFO s scored : 0
+2022-03-27 11:54:28,473 root INFO s scored : 1
+2022-03-27 11:54:28,639 root INFO  scored : 2
+2022-03-27 11:54:28,639 root INFO 9 / 1
+2022-03-27 11:54:28,639 root INFO  overs  :1
+2022-03-27 11:54:28,795 root INFO  scored : 4
+2022-03-27 11:54:29,046 root INFO 13 / 2
+2022-03-27 11:54:29,047 root INFO  overs  :1.2
+2022-03-27 11:54:29,266 root INFO s scored : 2
+2022-03-27 11:54:29,400 root INFO s scored : 1
+2022-03-27 11:54:29,714 root INFO  scored : 2
+2022-03-27 11:54:29,946 root INFO  scored : 6
+2022-03-27 11:54:29,947 root INFO 24 / 2
+2022-03-27 11:54:29,947 root INFO  overs  :2
+2022-03-27 11:54:30,236 root INFO  scored : 6
+2022-03-27 11:54:30,479 root INFO  scored : 6
+2022-03-27 11:54:30,659 root INFO  scored : 1
+2022-03-27 11:54:31,018 root INFO 37 / 3
+2022-03-27 11:54:31,019 root INFO  overs  :2.4
+2022-03-27 11:54:31,190 root INFO  scored : 2
+2022-03-27 11:54:31,341 root INFO  scored : 2
+2022-03-27 11:54:31,342 root INFO 41 / 3
+2022-03-27 11:54:31,342 root INFO  overs  :3
+2022-03-27 11:54:31,494 root INFO  scored : 4
+2022-03-27 11:54:31,755 root INFO  scored : 4
+2022-03-27 11:54:31,976 root INFO  scored : 6
+2022-03-27 11:54:32,333 root INFO 55 / 4
+2022-03-27 11:54:32,334 root INFO  overs  :3.4
+2022-03-27 11:54:32,516 root INFO  scored : 1
+2022-03-27 11:54:32,701 root INFO  scored : 1
+2022-03-27 11:54:32,702 root INFO 57 / 4
+2022-03-27 11:54:32,702 root INFO  overs  :4
+2022-03-27 11:54:32,879 root INFO  scored : 6
+2022-03-27 11:54:33,065 root INFO  scored : 1
+2022-03-27 11:54:33,439 root INFO 64 / 5
+2022-03-27 11:54:33,440 root INFO  overs  :4.3
+2022-03-27 11:54:33,666 root INFO  scored : 0
+2022-03-27 11:54:33,861 root INFO  scored : 0
+2022-03-27 11:54:34,132 root INFO  scored : 1
+2022-03-27 11:54:34,132 root INFO first inning ends sucessfully
+2022-03-27 11:54:34,132 root INFO second innings
+2022-03-27 11:54:34,730 root INFO  scored : 2
+2022-03-27 11:54:34,923 root INFO  scored : 1
+2022-03-27 11:54:35,125 root INFO  scored : 6
+2022-03-27 11:54:35,306 root INFO  scored : 2
+2022-03-27 11:54:35,581 root INFO  scored : 6
+2022-03-27 11:54:35,758 root INFO  scored : 6
+2022-03-27 11:54:35,758 root INFO 23 / 0
+2022-03-27 11:54:35,759 root INFO  overs  :1
+2022-03-27 11:54:35,869 root INFO  scored : 4
+2022-03-27 11:54:36,250 root INFO  scored : 4
+2022-03-27 11:54:36,523 root INFO  scored : 6
+2022-03-27 11:54:36,879 root INFO  scored : 1
+2022-03-27 11:54:37,281 root INFO  scored : 1
+2022-03-27 11:54:37,639 root INFO  scored : 1
+2022-03-27 11:54:37,639 root INFO 40 / 0
+2022-03-27 11:54:37,640 root INFO  overs  :2
+2022-03-27 11:54:39,333 root INFO  scored : 0
+2022-03-27 11:54:39,884 root INFO  scored : 1
+2022-03-27 11:54:40,306 root INFO  scored : 6
+2022-03-27 11:54:40,739 root INFO  scored : 2
+2022-03-27 11:54:41,135 root INFO  scored : 2
+2022-03-27 11:54:41,488 root INFO  scored : 2
+2022-03-27 11:54:41,489 root INFO 53 / 0
+2022-03-27 11:54:41,489 root INFO  overs  :3
+2022-03-27 11:54:41,865 root INFO  scored : 1
+2022-03-27 11:54:42,600 root INFO  scored : 2
+2022-03-27 11:54:43,217 root INFO  scored : 1
+2022-03-27 11:54:43,784 root INFO  scored : 1
+2022-03-27 11:54:44,393 root INFO 58 / 1
+2022-03-27 11:54:45,049 root INFO  overs  :3.5
+2022-03-27 11:54:45,898 root INFO  scored : 3
+2022-03-27 11:54:45,898 root INFO 61 / 1
+2022-03-27 11:54:45,898 root INFO  overs  :4
+2022-03-27 11:54:49,229 root INFO  scored : 3
+2022-03-27 11:54:49,896 root INFO  scored : 0
+2022-03-27 11:54:50,622 root INFO  scored : 1
+2022-03-27 11:54:51,288 root INFO 65 / 2
+2022-03-27 11:54:51,891 root INFO  overs  :4.4
+2022-03-27 11:54:52,628 root INFO  scored : 2
+2022-03-27 11:54:52,629 root INFO second inning ends sucessfully
+2022-03-27 11:54:52,629 root INFO sd score : 65
+2022-03-27 11:54:52,629 root INFO d score : 67
+2022-03-27 11:54:52,629 root INFO winner is : d
+2022-03-27 11:55:11,115 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 11:55:11,115 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 11:55:11,115 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 11:55:11,194 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 11:55:11,194 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 11:55:11,194 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 11:55:11,233 root INFO first time database stored sucessfully
+2022-03-27 11:55:11,237 root INFO the id for the match was : 57458
+2022-03-27 11:55:11,242 root ERROR error occured at database : can only concatenate str (not "MySQLConnection") to str
+2022-03-27 11:55:11,242 root INFO module runned sucessfully
+2022-03-27 11:55:17,639 root INFO data entered sucessfully :-  team1 : c: team2 :d
+2022-03-27 11:55:18,203 root INFO coin rolled was : head
+2022-03-27 11:55:18,204 root INFO toss was winned by : d
+2022-03-27 11:55:18,748 root INFO d choses to  : f
+2022-03-27 11:55:18,748 root INFO first ining
+2022-03-27 11:55:20,649 root INFO 0 / 1
+2022-03-27 11:55:20,650 root INFO  overs  :0.1
+2022-03-27 11:55:20,831 root INFO g scored : 6
+2022-03-27 11:55:20,976 root INFO g scored : 1
+2022-03-27 11:55:21,114 root INFO  scored : 6
+2022-03-27 11:55:21,199 root INFO  scored : 6
+2022-03-27 11:55:21,488 root INFO  scored : 6
+2022-03-27 11:55:21,488 root INFO 25 / 1
+2022-03-27 11:55:21,488 root INFO  overs  :1
+2022-03-27 11:55:21,705 root INFO  scored : 3
+2022-03-27 11:55:21,861 root INFO g scored : 2
+2022-03-27 11:55:22,016 root INFO g scored : 2
+2022-03-27 11:55:22,163 root INFO g scored : 3
+2022-03-27 11:55:22,337 root INFO  scored : 6
+2022-03-27 11:55:22,519 root INFO  scored : 0
+2022-03-27 11:55:22,520 root INFO 41 / 1
+2022-03-27 11:55:22,520 root INFO  overs  :2
+2022-03-27 11:55:22,861 root INFO 41 / 2
+2022-03-27 11:55:22,861 root INFO  overs  :2.1
+2022-03-27 11:55:23,016 root INFO g scored : 1
+2022-03-27 11:55:23,165 root INFO  scored : 0
+2022-03-27 11:55:23,324 root INFO  scored : 4
+2022-03-27 11:55:23,493 root INFO  scored : 0
+2022-03-27 11:55:23,675 root INFO  scored : 6
+2022-03-27 11:55:23,676 root INFO 52 / 2
+2022-03-27 11:55:23,676 root INFO  overs  :3
+2022-03-27 11:55:23,852 root INFO  scored : 2
+2022-03-27 11:55:24,029 root INFO  scored : 6
+2022-03-27 11:55:24,371 root INFO 60 / 3
+2022-03-27 11:55:24,372 root INFO  overs  :3.3
+2022-03-27 11:55:24,704 root INFO 60 / 4
+2022-03-27 11:55:24,705 root INFO  overs  :3.4
+2022-03-27 11:55:24,872 root INFO  scored : 1
+2022-03-27 11:55:25,204 root INFO 61 / 5
+2022-03-27 11:55:25,205 root INFO 61 / 5
+2022-03-27 11:55:25,205 root INFO  overs  :4
+2022-03-27 11:55:25,518 root INFO 61 / 6
+2022-03-27 11:55:25,519 root INFO  overs  :4.1
+2022-03-27 11:55:25,685 root INFO  scored : 2
+2022-03-27 11:55:25,872 root INFO  scored : 2
+2022-03-27 11:55:26,060 root INFO  scored : 3
+2022-03-27 11:55:26,225 root INFO  scored : 2
+2022-03-27 11:55:26,385 root INFO  scored : 1
+2022-03-27 11:55:26,385 root INFO first inning ends sucessfully
+2022-03-27 11:55:26,385 root INFO second innings
+2022-03-27 11:55:26,841 root INFO  scored : 0
+2022-03-27 11:55:27,389 root INFO  scored : 4
+2022-03-27 11:55:27,593 root INFO  scored : 2
+2022-03-27 11:55:27,750 root INFO  scored : 0
+2022-03-27 11:55:27,888 root INFO  scored : 6
+2022-03-27 11:55:28,031 root INFO  scored : 6
+2022-03-27 11:55:28,031 root INFO 18 / 0
+2022-03-27 11:55:28,031 root INFO  overs  :1
+2022-03-27 11:55:28,387 root INFO  scored : 2
+2022-03-27 11:55:28,923 root INFO  scored : 2
+2022-03-27 11:55:29,372 root INFO  scored : 2
+2022-03-27 11:55:29,716 root INFO  scored : 1
+2022-03-27 11:55:30,118 root INFO  scored : 3
+2022-03-27 11:55:30,522 root INFO  scored : 2
+2022-03-27 11:55:30,523 root INFO 30 / 0
+2022-03-27 11:55:30,523 root INFO  overs  :2
+2022-03-27 11:55:30,893 root INFO  scored : 6
+2022-03-27 11:55:31,313 root INFO  scored : 2
+2022-03-27 11:55:31,780 root INFO  scored : 1
+2022-03-27 11:55:32,217 root INFO  scored : 2
+2022-03-27 11:55:36,319 root INFO  scored : 0
+2022-03-27 11:55:36,789 root INFO 41 / 1
+2022-03-27 11:55:37,153 root INFO 41 / 1
+2022-03-27 11:55:37,154 root INFO  overs  :3
+2022-03-27 11:55:37,647 root INFO  scored : 6
+2022-03-27 11:55:38,279 root INFO  scored : 6
+2022-03-27 11:55:38,870 root INFO  scored : 6
+2022-03-27 11:55:39,293 root INFO  scored : 2
+2022-03-27 11:55:39,861 root INFO  scored : 1
+2022-03-27 11:55:40,481 root INFO  scored : 2
+2022-03-27 11:55:40,481 root INFO 64 / 1
+2022-03-27 11:55:40,481 root INFO  overs  :4
+2022-03-27 11:55:41,311 root INFO  scored : 4
+2022-03-27 11:55:42,153 root INFO  scored : 2
+2022-03-27 11:55:42,884 root INFO  scored : 1
+2022-03-27 11:55:47,810 root INFO  scored : 2
+2022-03-27 11:55:47,810 root INFO second inning ends sucessfully
+2022-03-27 11:55:47,810 root INFO c score : 71
+2022-03-27 11:55:47,811 root INFO d score : 73
+2022-03-27 11:55:47,811 root INFO winner is : d
+2022-03-27 11:55:54,367 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 11:55:54,368 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 11:55:54,368 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 11:55:54,372 root INFO the id for the match was : 99975
+2022-03-27 11:55:54,376 root INFO data stored in database sucessfully in database : cricket
+2022-03-27 11:55:54,377 root INFO module runned sucessfully
+2022-03-27 12:17:10,556 root INFO data entered sucessfully :-  team1 : india: team2 :aus
+2022-03-27 12:17:13,180 root INFO coin rolled was : tail
+2022-03-27 12:17:13,180 root INFO toss was winned by : aus
+2022-03-27 12:17:15,580 root INFO aus choses to  : ball
+2022-03-27 12:17:15,580 root INFO first ining
+2022-03-27 12:17:18,169 root INFO s scored : 6
+2022-03-27 12:17:18,539 root INFO s scored : 4
+2022-03-27 12:17:19,008 root INFO 10 / 1
+2022-03-27 12:17:19,008 root INFO  overs  :0.3
+2022-03-27 12:17:19,541 root INFO 10 / 2
+2022-03-27 12:17:19,541 root INFO  overs  :0.4
+2022-03-27 12:17:19,614 root INFO 10 / 3
+2022-03-27 12:17:19,614 root INFO  overs  :0.5
+2022-03-27 12:17:19,638 root INFO  scored : 2
+2022-03-27 12:17:19,639 root INFO 12 / 3
+2022-03-27 12:17:19,639 root INFO  overs  :1
+2022-03-27 12:17:19,669 root INFO  scored : 4
+2022-03-27 12:17:19,707 root INFO  scored : 2
+2022-03-27 12:17:19,736 root INFO  scored : 6
+2022-03-27 12:17:19,768 root INFO  scored : 6
+2022-03-27 12:17:19,800 root INFO  scored : 1
+2022-03-27 12:17:20,000 root INFO  scored : 4
+2022-03-27 12:17:20,000 root INFO 35 / 3
+2022-03-27 12:17:20,000 root INFO  overs  :2
+2022-03-27 12:17:20,187 root INFO  scored : 1
+2022-03-27 12:17:20,391 root INFO  scored : 0
+2022-03-27 12:17:20,485 root INFO  scored : 0
+2022-03-27 12:17:20,988 root INFO 36 / 4
+2022-03-27 12:17:20,989 root INFO  overs  :2.4
+2022-03-27 12:17:21,351 root INFO  scored : 6
+2022-03-27 12:17:21,555 root INFO  scored : 6
+2022-03-27 12:17:21,555 root INFO 48 / 4
+2022-03-27 12:17:21,555 root INFO  overs  :3
+2022-03-27 12:17:22,054 root INFO  scored : 2
+2022-03-27 12:17:22,085 root INFO  scored : 4
+2022-03-27 12:17:22,119 root INFO  scored : 1
+2022-03-27 12:17:22,152 root INFO  scored : 1
+2022-03-27 12:17:22,184 root INFO  scored : 6
+2022-03-27 12:17:22,221 root INFO  scored : 2
+2022-03-27 12:17:22,221 root INFO 64 / 4
+2022-03-27 12:17:22,221 root INFO  overs  :4
+2022-03-27 12:17:22,246 root INFO  scored : 0
+2022-03-27 12:17:22,278 root INFO  scored : 4
+2022-03-27 12:17:22,342 root INFO 68 / 5
+2022-03-27 12:17:22,342 root INFO  overs  :4.3
+2022-03-27 12:17:22,705 root INFO  scored : 2
+2022-03-27 12:17:22,930 root INFO  scored : 2
+2022-03-27 12:17:23,080 root INFO  scored : 4
+2022-03-27 12:17:23,081 root INFO first inning ends sucessfully
+2022-03-27 12:17:23,081 root INFO second innings
+2022-03-27 12:17:23,864 root INFO  scored : 6
+2022-03-27 12:17:24,509 root INFO 6 / 1
+2022-03-27 12:17:24,828 root INFO  overs  :0.2
+2022-03-27 12:17:25,044 root INFO 6 / 2
+2022-03-27 12:17:25,340 root INFO  overs  :0.3
+2022-03-27 12:17:25,540 root INFO  scored : 2
+2022-03-27 12:17:25,717 root INFO  scored : 0
+2022-03-27 12:17:25,894 root INFO 8 / 3
+2022-03-27 12:17:26,078 root INFO 8 / 3
+2022-03-27 12:17:26,078 root INFO  overs  :1
+2022-03-27 12:17:26,182 root INFO  scored : 1
+2022-03-27 12:17:26,862 root INFO 9 / 4
+2022-03-27 12:17:27,290 root INFO  overs  :1.2
+2022-03-27 12:17:27,694 root INFO  scored : 2
+2022-03-27 12:17:28,110 root INFO  scored : 3
+2022-03-27 12:17:28,490 root INFO  scored : 1
+2022-03-27 12:17:29,058 root INFO  scored : 0
+2022-03-27 12:17:29,058 root INFO 15 / 4
+2022-03-27 12:17:29,059 root INFO  overs  :2
+2022-03-27 12:17:29,442 root INFO 15 / 5
+2022-03-27 12:17:30,202 root INFO  overs  :2.1
+2022-03-27 12:17:30,658 root INFO  scored : 1
+2022-03-27 12:17:31,276 root INFO 16 / 6
+2022-03-27 12:17:31,710 root INFO  overs  :2.3
+2022-03-27 12:17:32,590 root INFO  scored : 6
+2022-03-27 12:17:33,517 root INFO  scored : 4
+2022-03-27 12:17:34,385 root INFO  scored : 4
+2022-03-27 12:17:34,385 root INFO 30 / 6
+2022-03-27 12:17:34,385 root INFO  overs  :3
+2022-03-27 12:17:35,455 root INFO  scored : 0
+2022-03-27 12:17:36,003 root INFO  scored : 2
+2022-03-27 12:17:36,789 root INFO  scored : 6
+2022-03-27 12:17:37,628 root INFO  scored : 1
+2022-03-27 12:17:38,310 root INFO  scored : 0
+2022-03-27 12:17:38,989 root INFO  scored : 1
+2022-03-27 12:17:38,990 root INFO 40 / 6
+2022-03-27 12:17:38,990 root INFO  overs  :4
+2022-03-27 12:17:40,878 root INFO  scored : 6
+2022-03-27 12:17:41,587 root INFO  scored : 0
+2022-03-27 12:17:42,303 root INFO  scored : 0
+2022-03-27 12:17:43,114 root INFO  scored : 2
+2022-03-27 12:17:43,932 root INFO  scored : 6
+2022-03-27 12:17:44,593 root INFO  scored : 2
+2022-03-27 12:17:44,593 root INFO second inning ends sucessfully
+2022-03-27 12:17:44,594 root INFO india score : 76
+2022-03-27 12:17:44,594 root INFO aus score : 56
+2022-03-27 12:17:44,594 root INFO winner is : india
+2022-03-27 12:17:55,270 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:17:55,271 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:17:55,271 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:17:55,348 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:17:55,349 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:17:55,349 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:17:55,358 root ERROR error occured at database : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2022-03-27 12:17:55,424 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:17:55,424 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:17:55,425 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:17:55,431 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 12:17:55,431 root INFO module runned sucessfully
+2022-03-27 12:21:57,085 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:21:57,086 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:21:57,086 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:21:57,091 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 12:23:42,495 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:23:42,495 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:23:42,496 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:23:42,499 root ERROR error occured at database : 1007 (HY000): Can't create database 'circket'; database exists
+2022-03-27 12:23:42,566 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:23:42,566 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:23:42,567 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:23:42,572 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 12:25:02,204 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:25:02,204 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:25:02,205 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:25:02,280 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:25:02,280 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:25:02,280 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:25:02,284 root ERROR error occured at database : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2022-03-27 12:25:02,351 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:25:02,351 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:25:02,351 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:25:02,357 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 12:26:38,766 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:26:38,766 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:26:38,766 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:26:38,841 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:26:38,841 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:26:38,842 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:26:38,892 root INFO first time database stored sucessfully
+2022-03-27 12:26:38,962 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 12:26:38,962 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 12:26:38,962 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 12:26:38,967 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 14:57:25,050 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 14:57:25,051 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 14:57:25,051 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 14:57:25,061 root ERROR error occured at database : 1007 (HY000): Can't create database 'circket'; database exists
+2022-03-27 14:57:25,239 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 14:57:25,239 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 14:57:25,240 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 14:57:25,258 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 14:58:06,794 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 14:58:06,795 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 14:58:06,795 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 14:58:06,800 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 14:58:31,860 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 14:58:31,861 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 14:58:31,861 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 14:58:31,866 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 15:13:09,752 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:13:09,753 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:13:09,754 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:13:09,760 root ERROR error occured at database : 1007 (HY000): Can't create database 'circket'; database exists
+2022-03-27 15:13:09,830 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:13:09,830 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:13:09,831 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:13:09,836 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 15:13:30,169 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:13:30,169 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:13:30,169 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:13:30,174 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 15:14:34,143 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:14:34,144 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:14:34,144 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:14:34,149 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 15:25:21,857 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:25:21,858 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:25:21,858 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:25:21,939 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:25:21,940 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:25:21,940 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:25:21,991 root INFO first time database stored sucessfully
+2022-03-27 15:25:22,060 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:25:22,060 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:25:22,061 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:25:22,074 root INFO the id for the match was : 35962
+2022-03-27 15:25:22,081 root ERROR error occured at database : 1406 (22001): Data too long for column 'date' at row 1
+2022-03-27 15:26:19,705 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:26:19,706 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:26:19,706 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:26:19,783 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:26:19,783 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:26:19,784 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:26:19,822 root INFO first time database stored sucessfully
+2022-03-27 15:26:19,891 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:26:19,892 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:26:19,892 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:26:19,904 root INFO the id for the match was : 71222
+2022-03-27 15:26:19,908 root INFO data stored in database sucessfully in database : cricket
+2022-03-27 15:26:29,577 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:26:29,577 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:26:29,577 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:26:29,580 root INFO the id for the match was : 42059
+2022-03-27 15:26:29,585 root INFO data stored in database sucessfully in database : cricket
+2022-03-27 15:29:17,826 root INFO data entered sinducessfully :-  team1 : ind aus: team2 :sus
+2022-03-27 15:29:18,722 root INFO coin rolled was : tail
+2022-03-27 15:29:18,722 root INFO toss was winned by : sus
+2022-03-27 15:29:19,116 root INFO sus choses to  : f
+2022-03-27 15:29:19,116 root INFO first ining
+2022-03-27 15:29:20,158 root INFO f scored : 3
+2022-03-27 15:29:20,775 root INFO f scored : 4
+2022-03-27 15:29:21,272 root INFO f scored : 2
+2022-03-27 15:29:21,833 root INFO f scored : 2
+2022-03-27 15:29:22,243 root INFO f scored : 0
+2022-03-27 15:29:22,652 root INFO f scored : 0
+2022-03-27 15:29:22,653 root INFO 11 / 0
+2022-03-27 15:29:22,653 root INFO  overs  :1
+2022-03-27 15:29:23,041 root INFO f scored : 2
+2022-03-27 15:29:23,714 root INFO f scored : 2
+2022-03-27 15:29:24,147 root INFO f scored : 1
+2022-03-27 15:29:24,502 root INFO f scored : 1
+2022-03-27 15:29:24,762 root INFO f scored : 1
+2022-03-27 15:29:24,982 root INFO f scored : 0
+2022-03-27 15:29:24,982 root INFO 18 / 0
+2022-03-27 15:29:24,983 root INFO  overs  :2
+2022-03-27 15:29:25,137 root INFO f scored : 4
+2022-03-27 15:29:25,535 root INFO 22 / 1
+2022-03-27 15:29:25,536 root INFO  overs  :2.2
+2022-03-27 15:29:25,774 root INFO f scored : 6
+2022-03-27 15:29:25,997 root INFO f scored : 6
+2022-03-27 15:29:26,282 root INFO f scored : 6
+2022-03-27 15:29:26,733 root INFO f scored : 4
+2022-03-27 15:29:26,734 root INFO 44 / 1
+2022-03-27 15:29:26,734 root INFO  overs  :3
+2022-03-27 15:29:27,080 root INFO f scored : 1
+2022-03-27 15:29:27,347 root INFO  scored : 2
+2022-03-27 15:29:27,746 root INFO  scored : 2
+2022-03-27 15:29:28,139 root INFO  scored : 1
+2022-03-27 15:29:28,468 root INFO f scored : 6
+2022-03-27 15:29:28,794 root INFO f scored : 6
+2022-03-27 15:29:28,794 root INFO 62 / 1
+2022-03-27 15:29:28,794 root INFO  overs  :4
+2022-03-27 15:29:29,399 root INFO 62 / 2
+2022-03-27 15:29:29,400 root INFO  overs  :4.1
+2022-03-27 15:29:29,892 root INFO  scored : 6
+2022-03-27 15:29:30,220 root INFO  scored : 6
+2022-03-27 15:29:30,578 root INFO  scored : 2
+2022-03-27 15:29:30,967 root INFO  scored : 2
+2022-03-27 15:29:31,322 root INFO  scored : 0
+2022-03-27 15:29:31,323 root INFO first inning ends sucessfully
+2022-03-27 15:29:31,323 root INFO second innings
+2022-03-27 15:29:32,870 root INFO  scored : 6
+2022-03-27 15:29:33,357 root INFO  scored : 6
+2022-03-27 15:29:33,742 root INFO  scored : 6
+2022-03-27 15:29:34,088 root INFO  scored : 4
+2022-03-27 15:29:34,415 root INFO  scored : 2
+2022-03-27 15:29:34,727 root INFO  scored : 4
+2022-03-27 15:29:34,727 root INFO 28 / 0
+2022-03-27 15:29:34,728 root INFO  overs  :1
+2022-03-27 15:29:35,014 root INFO  scored : 6
+2022-03-27 15:29:35,345 root INFO  scored : 6
+2022-03-27 15:29:35,791 root INFO  scored : 1
+2022-03-27 15:29:36,243 root INFO  scored : 4
+2022-03-27 15:29:36,688 root INFO  scored : 2
+2022-03-27 15:29:37,072 root INFO  scored : 2
+2022-03-27 15:29:37,073 root INFO 49 / 0
+2022-03-27 15:29:37,073 root INFO  overs  :2
+2022-03-27 15:29:37,436 root INFO  scored : 6
+2022-03-27 15:29:38,001 root INFO  scored : 1
+2022-03-27 15:29:38,530 root INFO  scored : 4
+2022-03-27 15:29:39,379 root INFO  scored : 6
+2022-03-27 15:29:39,781 root INFO  scored : 3
+2022-03-27 15:29:40,238 root INFO  scored : 2
+2022-03-27 15:29:40,239 root INFO 71 / 0
+2022-03-27 15:29:40,239 root INFO  overs  :3
+2022-03-27 15:29:40,685 root INFO  scored : 0
+2022-03-27 15:29:41,269 root INFO  scored : 3
+2022-03-27 15:29:41,964 root INFO  scored : 1
+2022-03-27 15:29:42,519 root INFO  scored : 6
+2022-03-27 15:29:42,519 root INFO second inning ends sucessfully
+2022-03-27 15:29:42,520 root INFO ind aus score : 78
+2022-03-27 15:29:42,520 root INFO sus score : 81
+2022-03-27 15:29:42,520 root INFO winner is : sus
+2022-03-27 15:29:53,390 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:29:53,390 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:29:53,390 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:29:53,393 root ERROR error occured at database : 1007 (HY000): Can't create database 'cricket'; database exists
+2022-03-27 15:29:53,466 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:29:53,467 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:29:53,468 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:29:53,476 root INFO the id for the match was : 68587
+2022-03-27 15:29:53,481 root INFO data stored in database sucessfully in database : cricket
+2022-03-27 15:29:53,482 root INFO module runned sucessfully
+2022-03-27 15:33:20,659 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:33:20,660 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:33:20,660 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:33:20,737 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:33:20,738 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:33:20,738 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:33:20,791 root INFO first time database stored sucessfully
+2022-03-27 15:33:20,798 root INFO the id for the match was : 39703
+2022-03-27 15:33:20,802 root INFO data stored in database sucessfully in database : cricket
+2022-03-27 15:33:28,032 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:33:28,032 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:33:28,033 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:33:28,035 root INFO the id for the match was : 74485
+2022-03-27 15:33:28,042 root INFO data stored in database sucessfully in database : cricket
+2022-03-27 15:40:57,699 root INFO data entered sinducessfully :-  team1 : s: team2 :d
+2022-03-27 15:40:58,259 root INFO coin rolled was : tail
+2022-03-27 15:40:58,259 root INFO toss was winned by : d
+2022-03-27 15:40:58,582 root INFO d choses to  : a
+2022-03-27 15:40:58,583 root INFO first ining
+2022-03-27 15:40:59,670 root INFO 0 / 1
+2022-03-27 15:40:59,670 root INFO  overs  :0.1
+2022-03-27 15:40:59,958 root INFO a scored : 1
+2022-03-27 15:41:00,291 root INFO a scored : 0
+2022-03-27 15:41:00,476 root INFO a scored : 6
+2022-03-27 15:41:00,869 root INFO 7 / 2
+2022-03-27 15:41:00,870 root INFO  overs  :0.5
+2022-03-27 15:41:01,094 root INFO a scored : 3
+2022-03-27 15:41:01,095 root INFO 10 / 2
+2022-03-27 15:41:01,095 root INFO  overs  :1
+2022-03-27 15:41:01,235 root INFO  scored : 1
+2022-03-27 15:41:01,349 root INFO a scored : 6
+2022-03-27 15:41:01,575 root INFO a scored : 1
+2022-03-27 15:41:01,719 root INFO  scored : 4
+2022-03-27 15:41:01,981 root INFO 22 / 3
+2022-03-27 15:41:01,981 root INFO  overs  :1.5
+2022-03-27 15:41:02,251 root INFO a scored : 2
+2022-03-27 15:41:02,252 root INFO 24 / 3
+2022-03-27 15:41:02,252 root INFO  overs  :2
+2022-03-27 15:41:02,401 root INFO a scored : 2
+2022-03-27 15:41:02,552 root INFO a scored : 1
+2022-03-27 15:41:02,676 root INFO  scored : 6
+2022-03-27 15:41:02,838 root INFO  scored : 4
+2022-03-27 15:41:03,019 root INFO  scored : 2
+2022-03-27 15:41:03,266 root INFO  scored : 3
+2022-03-27 15:41:03,267 root INFO 42 / 3
+2022-03-27 15:41:03,267 root INFO  overs  :3
+2022-03-27 15:41:03,511 root INFO a scored : 3
+2022-03-27 15:41:03,627 root INFO  scored : 4
+2022-03-27 15:41:04,132 root INFO  scored : 2
+2022-03-27 15:41:04,191 root INFO 51 / 4
+2022-03-27 15:41:04,191 root INFO  overs  :3.4
+2022-03-27 15:41:04,224 root INFO a scored : 3
+2022-03-27 15:41:04,256 root INFO  scored : 1
+2022-03-27 15:41:04,257 root INFO 55 / 4
+2022-03-27 15:41:04,257 root INFO  overs  :4
+2022-03-27 15:41:04,287 root INFO a scored : 2
+2022-03-27 15:41:04,617 root INFO a scored : 1
+2022-03-27 15:41:04,828 root INFO  scored : 2
+2022-03-27 15:41:05,021 root INFO  scored : 0
+2022-03-27 15:41:05,251 root INFO  scored : 1
+2022-03-27 15:41:05,751 root INFO a scored : 1
+2022-03-27 15:41:05,751 root INFO first inning ends sucessfully
+2022-03-27 15:41:05,752 root INFO second innings
+2022-03-27 15:41:05,846 root INFO  scored : 0
+2022-03-27 15:41:05,878 root INFO 0 / 1
+2022-03-27 15:41:05,911 root INFO  overs  :0.2
+2022-03-27 15:41:05,943 root INFO  scored : 0
+2022-03-27 15:41:07,934 root INFO  scored : 1
+2022-03-27 15:41:08,428 root INFO  scored : 6
+2022-03-27 15:41:08,460 root INFO 7 / 2
+2022-03-27 15:41:08,493 root INFO 7 / 2
+2022-03-27 15:41:08,493 root INFO  overs  :1
+2022-03-27 15:41:08,538 root INFO 7 / 3
+2022-03-27 15:41:08,556 root INFO  overs  :1.1
+2022-03-27 15:41:08,599 root INFO  scored : 0
+2022-03-27 15:41:08,620 root INFO  scored : 4
+2022-03-27 15:41:08,653 root INFO  scored : 6
+2022-03-27 15:41:08,688 root INFO  scored : 0
+2022-03-27 15:41:09,573 root INFO  scored : 4
+2022-03-27 15:41:09,573 root INFO 21 / 3
+2022-03-27 15:41:09,573 root INFO  overs  :2
+2022-03-27 15:41:10,072 root INFO  scored : 2
+2022-03-27 15:41:10,106 root INFO  scored : 6
+2022-03-27 15:41:10,140 root INFO  scored : 2
+2022-03-27 15:41:10,167 root INFO  scored : 2
+2022-03-27 15:41:10,798 root INFO  scored : 0
+2022-03-27 15:41:11,022 root INFO  scored : 1
+2022-03-27 15:41:11,022 root INFO 34 / 3
+2022-03-27 15:41:11,023 root INFO  overs  :3
+2022-03-27 15:41:11,304 root INFO 34 / 4
+2022-03-27 15:41:11,668 root INFO  overs  :3.1
+2022-03-27 15:41:12,434 root INFO  scored : 2
+2022-03-27 15:41:12,685 root INFO 36 / 5
+2022-03-27 15:41:13,409 root INFO  overs  :3.3
+2022-03-27 15:41:13,607 root INFO 36 / 6
+2022-03-27 15:41:13,832 root INFO  overs  :3.4
+2022-03-27 15:41:14,024 root INFO 36 / 7
+2022-03-27 15:41:14,207 root INFO  overs  :3.5
+2022-03-27 15:41:14,533 root INFO  scored : 2
+2022-03-27 15:41:14,534 root INFO 38 / 7
+2022-03-27 15:41:14,534 root INFO  overs  :4
+2022-03-27 15:41:14,818 root INFO  scored : 1
+2022-03-27 15:41:15,409 root INFO  scored : 1
+2022-03-27 15:41:15,628 root INFO  scored : 3
+2022-03-27 15:41:15,844 root INFO  scored : 0
+2022-03-27 15:41:16,074 root INFO  scored : 0
+2022-03-27 15:41:16,340 root INFO  scored : 6
+2022-03-27 15:41:16,341 root INFO second inning ends sucessfully
+2022-03-27 15:41:16,341 root INFO s score : 62
+2022-03-27 15:41:16,341 root INFO d score : 49
+2022-03-27 15:41:16,341 root INFO winner is : s
+2022-03-27 15:41:26,442 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:41:26,443 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:41:26,444 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:41:26,451 root INFO the id for the match was : 93992
+2022-03-27 15:41:26,455 root INFO data stored in database sucessfully in database : cricket
+2022-03-27 15:41:26,456 root INFO module runned sucessfully

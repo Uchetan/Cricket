@@ -4,13 +4,12 @@ from first_inning import first_inning
 from second_inning import second_inning
 from database import database
 '''' IF YOU ARE USING FOR THE FIRST TIME PLZ PROVIDE YOUR MYSQL PASSWORD AND ANY DATABASE NAME AS PER YOURCHOICE
-FOR ANY TYPE OF ERROR YOU CAN SEE THE LOG FILE named LOGS.DATA PRESENT AT THE LOGGER FOLDER'''
+FOR ANY TYPE OF ERROR YOU CAN SEE THE LOG FILE named LOGS.DATA PRESENT AT THE LOGGER FOLDER '''
 try:
     choice_1 = input('Enter your team name :- ')
     choice_2 = input('Enter your team name :- ')
-    logs.lg.info('data entered sucessfuly :-  ' + 'team1 : ' + choice_1 + ': team2 :' + choice_2)
-
-    print('====================================== Toss =========================================')
+    logs.lg.info('data entered sinducessfully :-  ' + 'team1 : ' + choice_1 + ': team2 :' + choice_2)
+    print('====================================== Toss =======================================')
     tos_win, tos_los, act = toss.toss_ch(choice_1, choice_2)
     print('======================================***=========================================')
     ch = input(str(tos_win) + ' choice bat or ball :-')
@@ -62,9 +61,19 @@ try:
         c = input('if it is your first time to store data(y/n) : -')
         if c == 'y' or c == 'Y':
             pas = input('Enter your MYSQl password : ')
-            data_name = input('Enter the database name : ')
-            database.first(pas, data_name)
-        database.store(fir_bat, sec_bat, a, b, winner)
+            database.first(pas)
+            try:
+                database.store(fir_bat, sec_bat, a, b, winner,pas)
+                print('Data saved')
+            except Exception as e:
+                print(e)
+        else:
+            try:
+                pas = input('Enter your MYSQl password : ')
+                database.store(fir_bat, sec_bat, a, b, winner,pas)
+                print("Data saved")
+            except Exception as e:
+                print(e)
     else:
         print('THANKS FOR YOUR TIME')
     logs.lg.info('module runned sucessfully')

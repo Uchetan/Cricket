@@ -8,7 +8,7 @@ FOR ANY TYPE OF ERROR YOU CAN SEE THE LOG FILE named LOGS.DATA PRESENT AT THE LO
 try:
     choice_1 = input('Enter your team name :- ')
     choice_2 = input('Enter your team name :- ')
-    logs.lg.info('data entered sucessfuly :-  ' + 'team1 : ' + choice_1 + ': team2 :' + choice_2)
+    logs.lg.info('data entered sinducessfully :-  ' + 'team1 : ' + choice_1 + ': team2 :' + choice_2)
     print('====================================== Toss =======================================')
     tos_win, tos_los, act = toss.toss_ch(choice_1, choice_2)
     print('======================================***=========================================')
@@ -61,9 +61,19 @@ try:
         c = input('if it is your first time to store data(y/n) : -')
         if c == 'y' or c == 'Y':
             pas = input('Enter your MYSQl password : ')
-            data_name = input('Enter the database name : ')
-            database.first(pas, data_name)
-        database.store(fir_bat, sec_bat, a, b, winner)
+            database.first(pas)
+            try:
+                database.store(fir_bat, sec_bat, a, b, winner,pas)
+                print('Data saved')
+            except Exception as e:
+                print(e)
+        else:
+            try:
+                pas = input('Enter your MYSQl password : ')
+                database.store(fir_bat, sec_bat, a, b, winner,pas)
+                print("Data saved")
+            except Exception as e:
+                print(e)
     else:
         print('THANKS FOR YOUR TIME')
     logs.lg.info('module runned sucessfully')
