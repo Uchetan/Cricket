@@ -1,0 +1,109 @@
+2022-03-27 15:05:05,908 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:05:05,909 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:05:05,909 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:05:05,915 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 15:05:16,265 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:05:16,265 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:05:16,266 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:05:16,269 root ERROR error occured at database : 1007 (HY000): Can't create database 'circket'; database exists
+2022-03-27 15:05:16,342 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:05:16,342 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:05:16,343 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:05:16,348 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 15:06:46,129 root INFO data entered sinducessfully :-  team1 : d: team2 :v
+2022-03-27 15:06:47,121 root INFO coin rolled was : tail
+2022-03-27 15:06:47,122 root INFO toss was winned by : v
+2022-03-27 15:06:47,563 root INFO v choses to  : d
+2022-03-27 15:06:47,563 root INFO first ining
+2022-03-27 15:06:48,872 root INFO d scored : 2
+2022-03-27 15:06:49,337 root INFO d scored : 4
+2022-03-27 15:06:50,059 root INFO 6 / 1
+2022-03-27 15:06:50,060 root INFO  overs  :0.3
+2022-03-27 15:06:50,425 root INFO d scored : 1
+2022-03-27 15:06:50,808 root INFO d scored : 0
+2022-03-27 15:06:51,157 root INFO d scored : 3
+2022-03-27 15:06:51,157 root INFO 10 / 1
+2022-03-27 15:06:51,157 root INFO  overs  :1
+2022-03-27 15:06:51,459 root INFO d scored : 2
+2022-03-27 15:06:52,157 root INFO d scored : 6
+2022-03-27 15:06:52,623 root INFO d scored : 2
+2022-03-27 15:06:53,027 root INFO d scored : 2
+2022-03-27 15:06:53,391 root INFO d scored : 1
+2022-03-27 15:06:53,791 root INFO d scored : 2
+2022-03-27 15:06:53,791 root INFO 25 / 1
+2022-03-27 15:06:53,792 root INFO  overs  :2
+2022-03-27 15:06:54,197 root INFO d scored : 6
+2022-03-27 15:06:54,940 root INFO d scored : 6
+2022-03-27 15:06:55,478 root INFO d scored : 2
+2022-03-27 15:06:56,606 root INFO 39 / 2
+2022-03-27 15:06:56,607 root INFO  overs  :2.4
+2022-03-27 15:06:57,240 root INFO d scored : 6
+2022-03-27 15:06:57,811 root INFO d scored : 4
+2022-03-27 15:06:57,812 root INFO 49 / 2
+2022-03-27 15:06:57,812 root INFO  overs  :3
+2022-03-27 15:06:58,269 root INFO d scored : 6
+2022-03-27 15:06:59,031 root INFO d scored : 1
+2022-03-27 15:06:59,743 root INFO f scored : 2
+2022-03-27 15:07:00,426 root INFO f scored : 2
+2022-03-27 15:07:00,947 root INFO f scored : 6
+2022-03-27 15:07:01,671 root INFO f scored : 1
+2022-03-27 15:07:01,672 root INFO 67 / 2
+2022-03-27 15:07:01,672 root INFO  overs  :4
+2022-03-27 15:07:02,848 root INFO d scored : 0
+2022-03-27 15:07:03,593 root INFO d scored : 6
+2022-03-27 15:07:04,359 root INFO d scored : 2
+2022-03-27 15:07:05,167 root INFO d scored : 0
+2022-03-27 15:07:06,188 root INFO d scored : 6
+2022-03-27 15:07:06,756 root INFO d scored : 0
+2022-03-27 15:07:06,756 root INFO first inning ends sucessfully
+2022-03-27 15:07:06,757 root INFO second innings
+2022-03-27 15:07:08,507 root INFO  scored : 4
+2022-03-27 15:07:08,960 root INFO  scored : 2
+2022-03-27 15:07:09,710 root INFO  scored : 0
+2022-03-27 15:07:10,299 root INFO  scored : 2
+2022-03-27 15:07:10,807 root INFO 8 / 1
+2022-03-27 15:07:11,378 root INFO  overs  :0.5
+2022-03-27 15:07:12,211 root INFO  scored : 6
+2022-03-27 15:07:12,212 root INFO 14 / 1
+2022-03-27 15:07:12,212 root INFO  overs  :1
+2022-03-27 15:07:15,556 root INFO  scored : 2
+2022-03-27 15:07:16,135 root INFO 16 / 2
+2022-03-27 15:07:16,736 root INFO  overs  :1.2
+2022-03-27 15:07:17,373 root INFO  scored : 4
+2022-03-27 15:07:18,017 root INFO  scored : 2
+2022-03-27 15:07:18,528 root INFO 22 / 3
+2022-03-27 15:07:19,043 root INFO  overs  :1.5
+2022-03-27 15:07:19,475 root INFO  scored : 1
+2022-03-27 15:07:19,476 root INFO 23 / 3
+2022-03-27 15:07:19,476 root INFO  overs  :2
+2022-03-27 15:07:20,580 root INFO  scored : 6
+2022-03-27 15:07:21,223 root INFO  scored : 2
+2022-03-27 15:07:21,765 root INFO  scored : 6
+2022-03-27 15:07:22,302 root INFO  scored : 2
+2022-03-27 15:07:22,758 root INFO  scored : 1
+2022-03-27 15:07:23,247 root INFO  scored : 2
+2022-03-27 15:07:23,248 root INFO 42 / 3
+2022-03-27 15:07:23,248 root INFO  overs  :3
+2022-03-27 15:07:24,159 root INFO  scored : 0
+2022-03-27 15:07:24,858 root INFO  scored : 0
+2022-03-27 15:07:25,629 root INFO  scored : 2
+2022-03-27 15:07:26,140 root INFO  scored : 6
+2022-03-27 15:07:26,744 root INFO  scored : 0
+2022-03-27 15:07:27,308 root INFO  scored : 6
+2022-03-27 15:07:27,309 root INFO 56 / 3
+2022-03-27 15:07:27,309 root INFO  overs  :4
+2022-03-27 15:07:28,088 root INFO  scored : 6
+2022-03-27 15:07:28,726 root INFO  scored : 2
+2022-03-27 15:07:29,317 root INFO  scored : 2
+2022-03-27 15:07:29,869 root INFO  scored : 6
+2022-03-27 15:07:30,401 root INFO  scored : 6
+2022-03-27 15:07:30,903 root INFO  scored : 0
+2022-03-27 15:07:30,904 root INFO second inning ends sucessfully
+2022-03-27 15:07:30,904 root INFO d score : 81
+2022-03-27 15:07:30,904 root INFO v score : 78
+2022-03-27 15:07:30,904 root INFO winner is : d
+2022-03-27 15:07:42,471 mysql.connector.connection DEBUG # _do_auth(): user: root
+2022-03-27 15:07:42,472 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+2022-03-27 15:07:42,472 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+2022-03-27 15:07:42,478 root ERROR error occured at database : 1049 (42000): Unknown database 'cricket'
+2022-03-27 15:07:42,478 root INFO module runned sucessfully
