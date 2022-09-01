@@ -1,14 +1,27 @@
 from logger import logs
+# To maintain log file
 from toss import toss
+# Returns the Toss winner
+# Needs Two argument (Two team names)
+# Return three arguments (Winner,Losser,Coin Rolled)
 from first_inning import first_inning
+# the entire first inning is played here
+# Needs single argument(first one to bat)
+# returns 5 arguments (Total [total1] , , batting scorecard [tea_1_bat], total over played [tea_2_bowl])
 from second_inning import second_inning
+# the entire first inning is played here
+# Needs 3 argument (Second team to bat, Target to chase, Bowling team)
+# returns 6 arguments (Total of team2 [total2] ,Wicket count [wic_count2],Winner [winner], batting scorecard [tea_2_bat], total over played [tea_1_bowl])
 from database import database
+# use to store the cricket data
+# Needs 5 argument (team First bat [fir_bat], Team second to bat [sec_bat],
+# str of total/wicket count [a],str of total/wicket count b, winner [winner],Mysql local database Password [pas]
 '''' IF YOU ARE USING FOR THE FIRST TIME PLZ PROVIDE YOUR MYSQL PASSWORD AND ANY DATABASE NAME AS PER YOURCHOICE
 FOR ANY TYPE OF ERROR YOU CAN SEE THE LOG FILE named LOGS.DATA PRESENT AT THE LOGGER FOLDER '''
 try:
     choice_1 = input('Enter your team name :- ')
     choice_2 = input('Enter your team name :- ')
-    logs.lg.info('data entered sinducessfully :-  ' + 'team1 : ' + choice_1 + ': team2 :' + choice_2)
+    logs.lg.info('data entered sucessfully :-  ' + 'team1 : ' + choice_1 + ': team2 :' + choice_2)
     print('====================================== Toss =======================================')
     tos_win, tos_los, act = toss.toss_ch(choice_1, choice_2)
     print('======================================***=========================================')
