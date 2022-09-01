@@ -5,6 +5,8 @@ runs=[0,0,1,1,1,2,2,2,3,3,4,4,4,6,6,6,6,6,0,0,1,1,2,2,2,8,8,8,8]
 tea_2_bat={}
 tea_1_bowl={}
 def sec_ing(ch1,total1,ch):
+    '''The Second innings is played here
+    Pass 3 (second batting team name, Total of first team, First team name) variable'''
     logs.lg.info('second innings')
     stri=[]
     a=input(str(ch1)+' enter your first player :-')

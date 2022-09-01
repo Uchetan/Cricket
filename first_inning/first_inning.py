@@ -5,6 +5,8 @@ runs=[0,0,1,1,1,2,2,2,3,3,4,4,4,6,6,6,6,6,0,0,1,1,2,2,2,8,8,8,8]
 tea_1_bat = {}
 tea_2_bowl = {}
 def first_in(ch):
+    '''The first innings is played here
+    Pass only one (batting team name) variable'''
     stri=[]
     logs.lg.info('first ining')
     a=input(str(ch)+' enter your first player :-')

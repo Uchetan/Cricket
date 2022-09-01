@@ -1,10 +1,16 @@
+'''Created to Save the Match Results
+    used database is mysql
+    '''
+
 import random as rd
 import mysql.connector as con
 from logger import logs
 import datetime
-'''used database is mysql '''
 obj=[]
 def first (pas='password',data_name='cricket'):
+    '''Created Initialse the DataBase
+    By Creating a DataBase and A table
+    '''
     try:
         mydb = con.connect(host='localhost', user='root', passwd=f'{pas}', use_pure=True)
         query=f'create database {data_name}'
