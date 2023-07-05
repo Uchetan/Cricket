@@ -40,7 +40,6 @@ def prep(mydb):
             continue
         else:
             op.append(b)
-            logs.lg.info('the id for the match was : '+str(b))
             break
     return b
 
@@ -55,5 +54,6 @@ def store(fir_bat,sec_bat,a1,b1,winner,pas):
         a = cur.execute(query)
         mydb.commit()
         logs.lg.info('data stored in database sucessfully in database : '+data)
+        logs.lg.info('the id for the match was : '+str(b))
     except Exception as e:
         logs.lg.error('error occured at database : '+str(e))
