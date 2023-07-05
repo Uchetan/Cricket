@@ -17,7 +17,6 @@ def first (pas='password',data_name='cricket'):
         cur = mydb.cursor()
         cur.execute(query)
         mydb.commit()
-
         mydb = con.connect(host='localhost', database= f'{data_name}',user='root', passwd=f'{pas}', use_pure=True)
         query = "create table matchistory(id int(6),team1 varchar(10),team2 varchar(10),team1_score varchar(15),team2_score varchar(15),winner varchar(10),date varchar(25));"
         cur = mydb.cursor()
