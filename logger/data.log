@@ -145,3 +145,35 @@
 2022-03-27 15:41:26,451 root INFO the id for the match was : 93992
 2022-03-27 15:41:26,455 root INFO data stored in database sucessfully in database : cricket
 2022-03-27 15:41:26,456 root INFO module runned sucessfully
+2022-09-02 14:01:45,687 root INFO data entered sucessfully :-  team1 : chetan: team2 :sudarshan
+2022-09-02 14:01:50,910 root INFO coin rolled was : head
+2022-09-02 14:01:50,910 root INFO toss was winned by : chetan
+2022-09-02 14:01:56,550 root INFO chetan choses to  : bat
+2022-09-02 14:01:56,551 root INFO first ining
+2022-09-02 14:02:07,901 root INFO 1 scored : 6
+2022-09-02 14:02:08,702 root INFO 1 scored : 1
+2022-09-02 14:02:09,286 root INFO 2 scored : 0
+2022-09-02 14:02:09,957 root INFO 7 / 1
+2022-09-02 14:02:09,957 root INFO  overs  :0.4
+2022-09-02 14:02:12,910 root INFO 1 scored : 2
+2022-09-02 14:02:14,007 root INFO 9 / 2
+2022-09-02 14:02:14,007 root INFO 9 / 2
+2022-09-02 14:02:14,007 root INFO  overs  :1
+2022-09-02 14:02:17,198 root INFO 9 / 3
+2022-09-02 14:02:17,199 root INFO  overs  :1.1
+2022-09-02 14:02:23,758 root INFO  scored : 1
+2022-09-02 14:02:25,069 root INFO  scored : 2
+2022-09-02 14:02:26,701 root INFO  scored : 1
+2022-09-02 14:02:28,557 root INFO  scored : 2
+2022-09-02 14:02:29,525 root INFO  scored : 6
+2022-09-02 14:02:29,525 root INFO 21 / 3
+2022-09-02 14:02:29,526 root INFO  overs  :2
+2022-09-02 14:02:36,047 root INFO  scored : 2
+2022-09-02 14:02:37,205 root INFO  scored : 1
+2022-09-02 14:02:42,494 root INFO 24 / 4
+2022-09-02 14:02:42,494 root INFO  overs  :2.3
+2022-09-02 14:02:44,197 root INFO  scored : 0
+2022-09-02 14:02:44,957 root INFO  scored : 6
+2022-09-02 14:02:45,677 root INFO  scored : 1
+2022-09-02 14:02:45,677 root INFO 31 / 4
+2022-09-02 14:02:45,678 root INFO  overs  :3
