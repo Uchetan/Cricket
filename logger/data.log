@@ -177,3 +177,91 @@
 2022-09-02 14:02:45,677 root INFO  scored : 1
 2022-09-02 14:02:45,677 root INFO 31 / 4
 2022-09-02 14:02:45,678 root INFO  overs  :3
+2023-07-05 12:29:45,145 root INFO data entered sucessfully :-  team1 : & C:/Users/cheta/AppData/Local/Programs/Python/Python310/python.exe "d:/Python programs/Cricket/index.py": team2 :in
+2023-07-05 12:29:53,111 root INFO coin rolled was : head
+2023-07-05 12:29:53,112 root INFO toss was winned by : & C:/Users/cheta/AppData/Local/Programs/Python/Python310/python.exe "d:/Python programs/Cricket/index.py"
+2023-07-05 12:31:48,126 root INFO data entered sucessfully :-  team1 : ind: team2 :aus
+2023-07-05 12:31:51,516 root INFO coin rolled was : tail
+2023-07-05 12:31:51,517 root INFO toss was winned by : aus
+2023-07-05 12:32:00,086 root INFO aus choses to  :  bat
+2023-07-05 12:32:00,088 root INFO first ining
+2023-07-05 12:32:19,102 root INFO 1 scored : 3
+2023-07-05 12:32:22,133 root INFO 2 scored : 4
+2023-07-05 12:32:22,811 root INFO 2 scored : 2
+2023-07-05 12:32:23,542 root INFO 2 scored : 1
+2023-07-05 12:32:26,267 root INFO 1 scored : 0
+2023-07-05 12:32:27,729 root INFO 1 scored : 1
+2023-07-05 12:32:27,735 root INFO 11 / 0
+2023-07-05 12:32:27,736 root INFO  overs  :1
+2023-07-05 12:32:45,728 root INFO 2 scored : 1
+2023-07-05 12:32:53,508 root INFO 12 / 1
+2023-07-05 12:32:53,509 root INFO  overs  :1.2
+2023-07-05 12:32:59,819 root INFO 2 scored : 0
+2023-07-05 12:33:01,268 root INFO 2 scored : 0
+2023-07-05 12:33:01,752 root INFO 2 scored : 1
+2023-07-05 12:33:02,145 root INFO 3 scored : 1
+2023-07-05 12:33:02,146 root INFO 14 / 1
+2023-07-05 12:33:02,148 root INFO  overs  :2
+2023-07-05 12:33:04,258 root INFO 2 scored : 2
+2023-07-05 12:33:04,964 root INFO 2 scored : 1
+2023-07-05 12:33:05,461 root INFO 3 scored : 0
+2023-07-05 12:33:05,909 root INFO 3 scored : 0
+2023-07-05 12:33:06,374 root INFO 3 scored : 4
+2023-07-05 12:33:06,967 root INFO 3 scored : 2
+2023-07-05 12:33:06,968 root INFO 23 / 1
+2023-07-05 12:33:06,971 root INFO  overs  :3
+2023-07-05 12:33:12,088 root INFO 3 scored : 6
+2023-07-05 12:33:13,130 root INFO 3 scored : 2
+2023-07-05 12:33:13,747 root INFO 3 scored : 6
+2023-07-05 12:33:14,453 root INFO 3 scored : 1
+2023-07-05 12:33:29,544 root INFO 38 / 2
+2023-07-05 12:33:29,545 root INFO  overs  :3.5
+2023-07-05 12:33:31,850 root INFO 3 scored : 6
+2023-07-05 12:33:31,852 root INFO 44 / 2
+2023-07-05 12:33:31,853 root INFO  overs  :4
+2023-07-05 12:33:34,231 root INFO 3 scored : 0
+2023-07-05 12:33:35,115 root INFO 3 scored : 0
+2023-07-05 12:33:35,709 root INFO 3 scored : 3
+2023-07-05 12:33:36,698 root INFO 4 scored : 1
+2023-07-05 12:33:39,791 root INFO 48 / 3
+2023-07-05 12:33:39,793 root INFO  overs  :4.5
+2023-07-05 12:33:41,791 root INFO 4 scored : 0
+2023-07-05 12:33:41,792 root INFO first inning ends sucessfully
+2023-07-05 12:33:41,793 root INFO second innings
+2023-07-05 12:33:51,092 root INFO a scored : 1
+2023-07-05 12:33:52,161 root INFO b scored : 2
+2023-07-05 12:33:52,923 root INFO b scored : 0
+2023-07-05 12:33:53,644 root INFO b scored : 4
+2023-07-05 12:33:54,154 root INFO b scored : 2
+2023-07-05 12:33:54,237 root INFO b scored : 2
+2023-07-05 12:33:54,239 root INFO 11 / 0
+2023-07-05 12:33:54,240 root INFO  overs  :1
+2023-07-05 12:33:59,744 root INFO b scored : 3
+2023-07-05 12:34:00,227 root INFO 14 / 1
+2023-07-05 12:34:02,676 root INFO  overs  :1.2
+2023-07-05 12:34:03,782 root INFO b scored : 2
+2023-07-05 12:34:04,243 root INFO b scored : 0
+2023-07-05 12:34:04,635 root INFO b scored : 0
+2023-07-05 12:34:05,062 root INFO b scored : 2
+2023-07-05 12:34:05,063 root INFO 18 / 1
+2023-07-05 12:34:05,065 root INFO  overs  :2
+2023-07-05 12:34:09,127 root INFO b scored : 4
+2023-07-05 12:34:09,695 root INFO b scored : 4
+2023-07-05 12:34:10,246 root INFO b scored : 6
+2023-07-05 12:34:10,713 root INFO b scored : 2
+2023-07-05 12:34:11,350 root INFO b scored : 3
+2023-07-05 12:34:11,995 root INFO c scored : 4
+2023-07-05 12:34:11,998 root INFO 41 / 1
+2023-07-05 12:34:11,999 root INFO  overs  :3
+2023-07-05 12:35:12,429 root INFO c scored : 0
+2023-07-05 12:35:14,621 root INFO c scored : 3
+2023-07-05 12:35:17,495 root INFO b scored : 1
+2023-07-05 12:35:18,822 root INFO c scored : 2
+2023-07-05 12:35:19,969 root INFO c scored : 4
+2023-07-05 12:35:19,970 root INFO second inning ends sucessfully
+2023-07-05 12:35:19,972 root INFO ind score : 48
+2023-07-05 12:35:19,974 root INFO aus score : 51
+2023-07-05 12:35:19,977 root INFO winner is : aus
+2023-07-05 12:36:35,180 root ERROR error occured at database : 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2023-07-05 12:36:37,229 root ERROR error occured at database : 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2023-07-05 12:36:37,231 root INFO module runned sucessfully
